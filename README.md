@@ -12,9 +12,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/ariannalangton/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    -[(NASA_Meteorite_data_analysis.ipynb)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
+    -[(NASA_Meteorite_Analysis.ipynb)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
   - Tableau
-    - My Tableau Public - https://public.tableau.com/app/profile/arianna.langton5684/vizzes
+    - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
       - [(League of Legends Statistics)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
 
 - [Education](https://github.com/ariannalangton/Portfolio/blob/main/README.md#education)  
