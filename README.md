@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
-    - [(Chaotic differential Systems of Equations)]
+    - [(Chaotic differential Systems of Equations)](https://github.com/ariannalangton/Portfolio/blob/504d9f5afff2dddbe197ccc0b9234bba5ea340b6/Chaotic_Systems.ipynb)
   - Tableau
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
@@ -39,6 +39,18 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Plotly Express
 
 **Results:** Using Python functions the analysis revealed that the year with the most meteorites was 1998. However, the year with the most missing data was 2004 and was followed closely by 2003, which could have skewed the data. For location, the most common spot was (0,0), which is most likely an error. The second most common was in Antarctica. The average mass of all the meteorites was 14020 grams. The average mass was also calcualted for year as well as meteroite class. Ofcourse there are many other characteristics that could have been investigated, but this was enough for my goal. 
+
+### Chaotic Systems of Differenital Equations
+**Code:** [(Chaotic differential Systems of Equations)](https://github.com/ariannalangton/Portfolio/blob/504d9f5afff2dddbe197ccc0b9234bba5ea340b6/Chaotic_Systems.ipynb)
+
+**Goal:** Simulate and solve three different chaotic systems of ordinary differential equations; Lorenz, Chua, Rössler. Discover what inital conditions, or coefficients, cause the system to become chaotic attractors. An attractor describes a state to which a dynamical system evolves after a long enough time.
+
+**Description:** Utilized Python to simulate and solve three different chaotic systems of ordinary differential equations; Lorenz, Chua, Rössler. Each system is comprised of their own unique equations and coefficents.
+**Skills:** data analysis, data visualization, mathematics.
+
+**Technology:** Python, Pandas, Numpy, Matplotlib, SciPy, mpl_toolkits.mplot3d
+
+**Results:** 
 
 ### League of Legends V13.1 Statistics
 **Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
