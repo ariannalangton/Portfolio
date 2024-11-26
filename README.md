@@ -17,8 +17,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
       - [(League of Legends Statistics)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Portfolio/blob/9e84e895d87f93f932188b19805f45b936bea026/profit%20dashboard.png)
-      - [(Grocery Store Geographical Sales Dashboard)]
-      - [(U.S Women Elected Officals dashboard)]
+      - [(Grocery Store Geographical Sales Dashboard)](https://github.com/ariannalangton/Portfolio/blob/b241c6a2e6c959e7cb235289a4e534221752c100/geographical_sales_dashboard.png)
+      - [(U.S Women Elected Officals dashboard)]()
 
 - [Education](https://github.com/ariannalangton/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/ariannalangton/Portfolio/blob/main/README.md#certificates)
