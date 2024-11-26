@@ -18,7 +18,6 @@ This is a repository to showcase skills, share projects and track my progress in
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Portfolio/blob/a3e2b93bd28c35742cffb0a9d3f3b0ee5d6185c5/us_women_officials.png)
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Portfolio/blob/9e84e895d87f93f932188b19805f45b936bea026/profit%20dashboard.png)
-      - [(Grocery Store Geographical Sales Dashboard)](https://github.com/ariannalangton/Portfolio/blob/b241c6a2e6c959e7cb235289a4e534221752c100/geographical_sales_dashboard.png)
 
 - [Education](https://github.com/ariannalangton/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/ariannalangton/Portfolio/blob/main/README.md#certificates)
@@ -41,9 +40,9 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Using Python functions the analysis revealed that the year with the most meteorites was 1998. However, the year with the most missing data was 2004 and was followed closely by 2003, which could have skewed the data. For location, the most common spot was (0,0), which is most likely an error. The second most common was in Antarctica. The average mass of all the meteorites was 14020 grams. The average mass was also calcualted for year as well as meteroite class. Ofcourse there are many other characteristics that could have been investigated, but this was enough for my goal. 
 
 ### League of Legends V13.1 Statistics
-**Dashboard:** [(League of Legends V13 Statistics)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
+**Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
 
-**Tableau:** [(League of Legends Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/leagueoflegendsstats/Dashboard2)
+**Tableau:** [(League of Legends Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/leagueoflegendsstats/Dashboard2)
 
 **Goal:** Use League of Legends Champion statistics v13.1 from Kaggle to create a dashboard on Tableau. Analyzed champions and roles by most played, ban rate, and win rate.
 
@@ -52,6 +51,32 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data analysis, data visualization.
 
 **Results:** By utilizing Tableau's built-in aggregation functions, I determined that Caitlyn was the most played champion, while Zed was the most banned. Furthermore, Singed had the highest win rate among all champions when played in the Mid role, and Mid being the role with the highest overall win rate. Additionally, I visualized the top 8 most played champions and the roles in which they are most frequently selected.
+
+### U.S Women Elected Officials
+**Dashboard:** [(U.S Women Elected Officals Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/a3e2b93bd28c35742cffb0a9d3f3b0ee5d6185c5/us_women_officials.png)
+
+**Tableau:** [(U.S Women Elected Officials Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/U_SWomenElectedOfficialsDemographics/Dashboard2)
+
+**Goal:** Create a Tableau dashboard on the demographics of U.S. women elected officials using data from cawp.rutgers.edu. Analyze race, political party, and state.
+
+**Description:** The project aimed to analyze the demographics of more than a thousand different women elected officials and find trends.
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Results:** Using Tableau, I found that 68% of women elected officials are White. The Democratic Party has the highest representation of women, accounting for 64% of all elected women. New Hampshire leads the states with the most elected women, comprising 5.9% of all women in office.
+
+### Grocery Store KPI Dashboard
+**Dashboard:** [(Grocery Store KPI Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/9e84e895d87f93f932188b19805f45b936bea026/profit%20dashboard.png)
+
+**Tableau:** [(Grocery Store KPI Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/2015SalesDashboard_17313755663760/profitdashboard)
+
+**Goal:** Create a Tableau dashboard to easily present KPIs such as sales, profits, quantity sold, sales by region, and category wise sales.
+
+**Description:** Analyzed sales data from Kaggle for an anonymous supermarket. Created Tableau dashboards by analyzing sales KPIs for 2015 as well as geographical sales from 2012-2015.
+
+**Skills:** data cleaning, data analysis, data visualization, KPIs, Sales Metrics.
+
+**Results:** Using Tableau, I discovered that sales for 2015 totaled 4.29M, reflecting a 26.2% increase compared to 2014. Additionally, profit saw a 23.8% year-to-date increase, while the quantity sold rose by 25.9%. The highest sales came from the Technology category, with Phones being the top sub-category. The region generating the most profit for the store was Asia, closely followed by Europe.
 
 ## Education
 
