@@ -36,7 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 ## Education
 
 Illinois State University |
-Bachelor's of Science, Physics |
+Bachelor of Science, Physics |
 2019 - 2023
 
 ## Certificates
