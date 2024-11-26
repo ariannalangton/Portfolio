@@ -14,6 +14,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     -[(NASA_Meteorite_data_analysis.ipynb)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
   - Tableau
+    - [(My Tableau Public)]  
+      - [(League of Legends Statistics V13)] (https://github.com/ariannalangton/Portfolio/blob/ae655b6c76ca60a0c534b065c89748ee20547a96/league_of__ledgends_dashboard.png)
 
 - [Education](https://github.com/ariannalangton/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/ariannalangton/Portfolio/blob/main/README.md#certificates)
