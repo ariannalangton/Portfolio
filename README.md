@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
     -[(NASA_Meteorite_data_analysis.ipynb)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
   - Tableau
     - My Tableau Public - https://public.tableau.com/app/profile/arianna.langton5684/vizzes
-      - [[(league_of__ledgends_dashboard.png)] https://github.com/ariannalangton/Portfolio/blob/ae655b6c76ca60a0c534b065c89748ee20547a96/league_of__ledgends_dashboard.png](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
+      - [(league_of__ledgends_dashboard.png)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
 
 - [Education](https://github.com/ariannalangton/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/ariannalangton/Portfolio/blob/main/README.md#certificates)
