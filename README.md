@@ -12,7 +12,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/ariannalangton/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [(Unicorn Companies)](https://github.com/ariannalangton/Portfolio/blob/23547f2771f055c2d4e124c110c900657fcff94c/unicorn_companies.ipynb)
+    - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/38d1a4317bf731a6ed63411959ac17e9273022d3/inevstor_analysis.ipynb)
+    - [(Unicorn Companies)](https://github.com/ariannalangton/Portfolio/blob/23547f2771f055c2d4e124c110c900657fcff94c/unicorn_companies.ipynb)      
     - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
     - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/504d9f5afff2dddbe197ccc0b9234bba5ea340b6/Chaotic_Systems.ipynb)
   - Tableau
@@ -27,6 +28,21 @@ This is a repository to showcase skills, share projects and track my progress in
  
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Analyzing Industries and Countires for Investments
+
+**Code:** [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/38d1a4317bf731a6ed63411959ac17e9273022d3/inevstor_analysis.ipynb)
+
+**Goal:** Use skills to clean and investigate data following EDA process. Analyze data for companies in different industries and countries.
+
+**Description:** I provided insights to an imaginary investing firm. To help them decide which companies to invest in next, the firm wants insights into unicorn companies–companies that are valued at over one billion dollars. The data I used for this task provides information on over 1,000 unicorn companies, including their industry, country, year founded, and select investors. The investor wants companies in the hardware industry based in Beijing, San Francisco, and London. They also want to investigate companies in the artificial intelligence industry based in London. They requested a list of the top 20 countries sorted by company valuations in each country as well as a global valuation map of all countries except United States, China, India, and United Kingdom
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
+
+**Results:** 
+The analysis identified eight companies that meet the criteria for the Hardware and Artificial Intelligence industries. These companies are: Bitmain, Global Switch, Chipone, Density, BenevolentAI, Geek+, TERMINUS Technology, and Tractable. Additionally, the top five countries ranked by valuation are Germany, Sweden, Australia, France, and Canada. A plot of the top twenty companies is available in the notebook. It is also noteworthy that Europe has a high concentration of unicorn companies in a specific region.
 
 ### Analyzing Unicorn Companies and Investment Data
 
