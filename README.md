@@ -32,16 +32,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:** [(unicorn_companies.ipynb)](https://github.com/ariannalangton/Portfolio/blob/23547f2771f055c2d4e124c110c900657fcff94c/unicorn_companies.ipynb)
 
-**Goal:** Use skills to clean and investigate data following EDA process. Find and analyze most common mass, year, geographical location, name type, and meteorite class.
+**Goal:** Use skills to clean and investigate data following EDA process. Analyze data trends and find 'Unicorn Companies.'
 
-**Description:** The project focused on analyzing a dataset of meteorite landings from the 1400s to 2014. The dataset included name, id, name type, class, mass, fall type, year, and location. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the most common type, year, and landing location of the meteorites.
+**Description:** I provided insights to an imaginary investing firm. To help them decide which companies to invest in next, the firm wants insights into unicorn companies–companies that are valued at over one billion dollars. The data I used for this task provides information on over 1,000 unicorn companies, including their industry, country, year founded, and select investors. I will use this information to gain insights into how and when companies reach this prestigious milestone and to make recommendations for next steps to the investing firm.
 
 **Skills:** data cleaning, data analysis, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Plotly Express
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
 
-**Results:** Using Python functions the analysis revealed that the year with the most meteorites was 1998. However, the year with the most missing data was 2004 and was followed closely by 2003, which could have skewed the data. For location, the most common spot was (0,0), which is most likely an error. The second most common was in Antarctica. The average mass of all the meteorites was 14020 grams. The average mass was also calcualted for year as well as meteroite class. Ofcourse there are many other characteristics that could have been investigated, but this was enough for my goal. 
-
+**Results:** Using Python functions the analysis revealed that there are 1074 unicorn companies represented in this dataset. Some companies took longer to reach unicorn status but have accrued high valuation as of March 2022. Companies could take longer to achieve unicorn status for a number of reasons, including requiring more funding or taking longer to develop a business model.
 
 ### Analyzing Meteroite Landings Recorded by NASA
 **Code:** [(NASA_Meteorite_data_analysis.ipynb)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
