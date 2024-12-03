@@ -84,8 +84,8 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
 
-**Results:** 
-The analysis identified eight companies that meet the criteria for the Hardware and Artificial Intelligence industries. These companies are: Bitmain, Global Switch, Chipone, Density, BenevolentAI, Geek+, TERMINUS Technology, and Tractable. Additionally, the top five countries ranked by valuation are Germany, Sweden, Australia, France, and Canada. A plot of the top twenty companies is available in the notebook. It is also noteworthy that Europe has a high concentration of unicorn companies in a specific region.
+**Results:** The analysis revealed that 2015 has the highest count. This indicates that 2015 is the year when the largest number of companies in this dataset were founded. There appears to be a trend wherein companies that were founded later took less time to reach unicorn status, on average. Then, I get more insight on the year 2021, as that is the most recent year for which there is data available. Trends that took place in 2021 might be similar to trends that will take place in 2022. The highest number of companies reached $1 billion valuation in Week 37 of 2021, which corresponds to the third week of September 2021, with a general decline following.
+
 
 ### Chaotic Systems of Differenital Equations
 **Code:** [(Chaotic differential Systems of Equations)](https://github.com/ariannalangton/Portfolio/blob/504d9f5afff2dddbe197ccc0b9234bba5ea340b6/Chaotic_Systems.ipynb)
