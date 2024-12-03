@@ -84,7 +84,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
 
-**Results:** The analysis revealed that 2015 has the highest count. This indicates that 2015 is the year when the largest number of companies in this dataset were founded. There appears to be a trend wherein companies that were founded later took less time to reach unicorn status, on average. Then, I get more insight on the year 2021, as that is the most recent year for which there is data available. Trends that took place in 2021 might be similar to trends that will take place in 2022. The highest number of companies reached $1 billion valuation in Week 37 of 2021, which corresponds to the third week of September 2021, with a general decline following.
+**Results:** The analysis showed that 2015 had the highest number of companies founded, indicating that it was the year with the largest concentration of unicorn startups in this dataset. Additionally, a trend emerged where companies founded more recently tended to reach unicorn status more quickly, on average. Focusing on 2021, the most recent year with available data, since trends from 2021 could potentially reflect similar patterns in 2022. The highest number of companies achieving a $1 billion valuation occurred in Week 37 of 2021, which corresponds to the third week of September. After that peak, there was a general decline in the number of companies reaching unicorn status.
 
 
 ### Chaotic Systems of Differenital Equations
