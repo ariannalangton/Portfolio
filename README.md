@@ -75,9 +75,10 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 ### Analyzing when companies become a Unicorn Company
 
 **Code:** [(Time to Become a Unicorn Company)](https://github.com/ariannalangton/Portfolio/blob/03b054d573a757fa627a0645e8603680212eb1c0/time_to_unicorn_analysis.ipynb)
+
 **Goal:** Use skills to clean and investigate data following EDA process. Analyze the data for how long it takes companies to reach the status of unicorn company.
 
-**Description:** I provided insights to an imaginary investing firm. To help them decide which companies to invest in next, the firm wants insights into unicorn companies–companies that are valued at over one billion dollars. The data I used for this task provides information on over 1,000 unicorn companies, including their industry, country, year founded, and select investors. The investor wants companies in the hardware industry based in Beijing, San Francisco, and London. They also want to investigate companies in the artificial intelligence industry based in London. They requested a list of the top 20 countries sorted by company valuations in each country as well as a global valuation map of all countries except United States, China, India, and United Kingdom
+**Description:** I offered insights to a hypothetical investment firm to assist them in determining which companies to invest in next. The firm sought information on unicorn companies—those valued at over one billion dollars. The data I analyzed included details on over 1,000 unicorns, such as their industry, country, founding year, and key investors. The investor was particularly interested in understanding the patterns and timing of when companies achieve unicorn status, so I analyzed the data across various timeframes, including years, months, weeks, and quarters.
 
 **Skills:** data cleaning, data analysis, data visualization.
 
