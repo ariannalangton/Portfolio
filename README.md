@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/504d9f5afff2dddbe197ccc0b9234bba5ea340b6/Chaotic_Systems.ipynb)
   - Tableau
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
-      - [(EDA of TikTok Claim Classification)]
+      - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/c5d8aef94117dba2fb00d0b446391a9867ff0ddc/EDA_TikTok_Claim_Dashboard.pdf)
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Portfolio/blob/a3e2b93bd28c35742cffb0a9d3f3b0ee5d6185c5/us_women_officials.png)
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Portfolio/blob/9e84e895d87f93f932188b19805f45b936bea026/profit%20dashboard.png)
@@ -113,6 +113,19 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Technology:** Python, Pandas, Numpy, Matplotlib, SciPy, mpl_toolkits.mplot3d
 
 **Results:** [(Results Report)](https://github.com/ariannalangton/Portfolio/blob/8b0abda58593d44e2154e09d479c0a5d6e0bceb7/chaotic%20attractors%20results.pdf)
+
+### EDA of TikTok Claim Classification
+**Dashboard:** [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/c5d8aef94117dba2fb00d0b446391a9867ff0ddc/EDA_TikTok_Claim_Dashboard.pdf)
+
+**Tableau:** [(TikTok Claim Dashboard on Tableau)](https://public.tableau.com/views/EDAofTiktokClaimClassification/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Goal:** Use TIkTok claim statistics to build easy to understand visualizations.
+
+**Description:** The project aimed to analyze TikTok video user status, claim status, and video statistics such as like count, view count, video duration, and like count.
+
+**Skills:** Tableau, data visualization, box plots, scatter plot
+
+**Results:** By utilizing Tableau's plots and aggregation functions, I created a scatter plot to show the relationship between a videos like count and view count for claims and opinions. In addition, I visualized the total amount of claims v.s opinions, as well as an author status (active, banned, or under review) and the type of video posted by each status.
 
 ### League of Legends V13.1 Statistics
 **Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
