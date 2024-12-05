@@ -11,7 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/ariannalangton/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [(TikTok Claim Analysis)](https://github.com/ariannalangton/Portfolio/blob/1708923ac748356858fa665f2fa5288570d6907e/tiktok_video_stats.ipynb) 
+    - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/1708923ac748356858fa665f2fa5288570d6907e/tiktok_video_stats.ipynb) 
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/38d1a4317bf731a6ed63411959ac17e9273022d3/inevstor_analysis.ipynb)
     - [(Unicorn Companies)](https://github.com/ariannalangton/Portfolio/blob/23547f2771f055c2d4e124c110c900657fcff94c/unicorn_companies.ipynb)      
     - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
@@ -19,6 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/504d9f5afff2dddbe197ccc0b9234bba5ea340b6/Chaotic_Systems.ipynb)
   - Tableau
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
+      - [(EDA of TikTok Claim Classification)]
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Portfolio/blob/a3e2b93bd28c35742cffb0a9d3f3b0ee5d6185c5/us_women_officials.png)
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Portfolio/blob/9e84e895d87f93f932188b19805f45b936bea026/profit%20dashboard.png)
