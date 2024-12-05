@@ -11,6 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/ariannalangton/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
+    - [(TikTok Claim Analysis)](https://github.com/ariannalangton/Portfolio/blob/1708923ac748356858fa665f2fa5288570d6907e/tiktok_video_stats.ipynb) 
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/38d1a4317bf731a6ed63411959ac17e9273022d3/inevstor_analysis.ipynb)
     - [(Unicorn Companies)](https://github.com/ariannalangton/Portfolio/blob/23547f2771f055c2d4e124c110c900657fcff94c/unicorn_companies.ipynb)      
     - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
@@ -28,6 +29,20 @@ This is a repository to showcase skills, share projects and track my progress in
  
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Analyzing TikTok Video Statistics
+
+**Code:** [(TikTok Claim Analysis)](https://github.com/ariannalangton/Portfolio/blob/1708923ac748356858fa665f2fa5288570d6907e/tiktok_video_stats.ipynb)
+
+**Goal:** Use skills to clean and investigate data following EDA process. Analyze data for TikTok videos and discover trends.
+
+**Description:** For this project I will assist the TikTok analyst team by doing some Exploratory Data Analysis (EDA) and data visualization on a dataset provided by the google data anlytics certificate. The TikTok management team asked to see a Python notebook showing data structuring and cleaning, as well as any matplotlib/seaborn visualizations plotted to help us understand the data. I will analyze claim counts to opinion counts, as well as boxplots of statistics such as “video duration,” “video like count,” “video comment count,” and “video view count” to check for outliers. In addition, I will do a breakdown of “author ban status” counts.
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
+
+**Results:** I observed that TikTok videos flagged as claims receive significantly more views than those flagged as opinions, despite a similar number of videos being posted for both categories. Furthermore, the author status of the user is mainly active across both claim types. However, the proportion of active authors is greater in the opinion category. This suggests that users posting claims are more likely to have their accounts banned or under review. Additionally, all video statistics showed a right-skewed distribution, except for video duration, which exhibited a fairly uniform distribution. Overall, videos that posts claims are likely to get more views and likes than those that are opinions, but the account status is more likely to be banned or under review.
 
 ### Analyzing Industries and Countires for Investments
 
