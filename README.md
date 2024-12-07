@@ -89,6 +89,19 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 **Results:** Using Python functions the analysis revealed that there are 1074 unicorn companies represented in this dataset. Some companies took longer to reach unicorn status but have accrued high valuation as of March 2022. Companies could take longer to achieve unicorn status for a number of reasons, including requiring more funding or taking longer to develop a business model.
 
+### Literacy Data Probability Density
+**Code:** [(Literacy Data Probability Density)](https://github.com/ariannalangton/Portfolio/blob/bc2899d2ba3eac19c2004f078ec27446a7830c78/normal_distrib_literacyData.ipynb)   
+
+**Goal:** Use skills to find what probability distribution fits the data, and then use Z-score to find outliers. One of the main goals is to determine which district has the lowest literacy scores.
+
+**Description:** I will be using data from different districts in the U.S. The data includes information from multiple states, and inlcudes the districts literacy score, OVERALL_LI. 
+
+**Skills:** data cleaning, data analysis, data visualization, probability.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy
+
+**Results:** Overall, I discovered that the distribution of the aqi_log data is approximately normal. In addition, using statistical methods, it was determined that districts 434 and 494 have Z-scores less than -3, and so are outliers. As a result, there should be more focus on those districts to improve the literacy score.
+
 ### Analyzing Meteroite Landings Recorded by NASA
 **Code:** [(NASA_Meteorite_data_analysis.ipynb)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
 
