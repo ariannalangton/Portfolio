@@ -62,6 +62,19 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** 
 The analysis identified eight companies that meet the criteria for the Hardware and Artificial Intelligence industries. These companies are: Bitmain, Global Switch, Chipone, Density, BenevolentAI, Geek+, TERMINUS Technology, and Tractable. Additionally, the top five countries ranked by valuation are Germany, Sweden, Australia, France, and Canada. A plot of the top twenty companies is available in the notebook. It is also noteworthy that Europe has a high concentration of unicorn companies in a specific region.
 
+### Air Quality Probability Density
+**Code:** [(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/bc2899d2ba3eac19c2004f078ec27446a7830c78/airQuality_probabilityDistrib.ipynb)
+
+**Goal:** Use skills to find what probability distribution fits the data, and then use Z-score to find outliers. 
+
+**Description:** I will be using data from United States Environmental Protection Agency (EPA). The data includes information about more than 200 sites, identified by state, county, city, and local site names. One of the main goals is to determine which regions need support to make air quality improvements. Given that carbon monoxide is a major air pollutant, I will investigate data from the Air Quality Index (AQI) with respect to carbon monoxide.
+
+**Skills:** data cleaning, data analysis, data visualization, probability.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy
+
+**Results:** Overall, I discovered that the distribution of the aqi_log data is approximately normal. In addition, using statistical methods, it was determined that the site at West Phoenix has worse air quality than the other sites, and is an outlier. finally, the EPA should consider allocating more resources toward further examining this site in order to improve its air quality."
+
 ### Analyzing Unicorn Companies and Investment Data
 
 **Code:** [(unicorn_companies.ipynb)](https://github.com/ariannalangton/Portfolio/blob/23547f2771f055c2d4e124c110c900657fcff94c/unicorn_companies.ipynb)
@@ -76,18 +89,20 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 **Results:** Using Python functions the analysis revealed that there are 1074 unicorn companies represented in this dataset. Some companies took longer to reach unicorn status but have accrued high valuation as of March 2022. Companies could take longer to achieve unicorn status for a number of reasons, including requiring more funding or taking longer to develop a business model.
 
-### Analyzing Meteroite Landings Recorded by NASA
-**Code:** [(NASA_Meteorite_data_analysis.ipynb)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
+### Analyzing TikTok Video Statistics
 
-**Goal:** Use skills to clean and investigate data following EDA process. Find and analyze most common mass, year, geographical location, name type, and meteorite class.
+**Code:** [(TikTok Claim Analysis)](https://github.com/ariannalangton/Portfolio/blob/1708923ac748356858fa665f2fa5288570d6907e/tiktok_video_stats.ipynb)
 
-**Description:** The project focused on analyzing a dataset of meteorite landings from the 1400s to 2014. The dataset included name, id, name type, class, mass, fall type, year, and location. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the most common type, year, and landing location of the meteorites.
+**Goal:** Use skills to clean and investigate data following EDA process. Analyze data for TikTok videos and discover trends.
+
+**Description:** For this project I will assist the TikTok analyst team by doing some Exploratory Data Analysis (EDA) and data visualization on a dataset provided by the google data anlytics certificate. The TikTok management team asked to see a Python notebook showing data structuring and cleaning, as well as any matplotlib/seaborn visualizations plotted to help us understand the data. I will analyze claim counts to opinion counts, as well as boxplots of statistics such as “video duration,” “video like count,” “video comment count,” and “video view count” to check for outliers. In addition, I will do a breakdown of “author ban status” counts.
 
 **Skills:** data cleaning, data analysis, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Plotly Express
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
 
-**Results:** Using Python functions the analysis revealed that the year with the most meteorites was 1998. However, the year with the most missing data was 2004 and was followed closely by 2003, which could have skewed the data. For location, the most common spot was (0,0), which is most likely an error. The second most common was in Antarctica. The average mass of all the meteorites was 14020 grams. The average mass was also calcualted for year as well as meteroite class. Ofcourse there are many other characteristics that could have been investigated, but this was enough for my goal.
+**Results:** I observed that TikTok videos flagged as claims receive significantly more views than those flagged as opinions, despite a similar number of videos being posted for both categories. Furthermore, the author status of the user is mainly active across both claim types. However, the proportion of active authors is greater in the opinion category. This suggests that users posting claims are more likely to have their accounts banned or under review. Additionally, all video statistics showed a right-skewed distribution, except for video duration, which exhibited a fairly uniform distribution. Overall, videos that posts claims are likely to get more views and likes than those that are opinions, but the account status is more likely to be banned or under review.
+
 
 ### Analyzing when companies become a Unicorn Company
 
