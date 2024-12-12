@@ -6,3 +6,19 @@ For this project, I received data from a paid digital media specialist who ran a
 
 ## Table of Contents
 - [About](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/README.md#About)
+-[TikTok Statisical Analysis]
+  - [Executive Summary]
+  - [Jupyter Notebook]
+  - [Tableau Dashboards]
+-[Facebook Statistical Analysis]
+  - [Executive Summary]
+  - [Jupyter Notebook]
+  - [Tableau Dashboards]
+- [Google Statistical Analysis]
+  - [Executive Summary]
+  - [Jupyter Notebook]
+  - [Tableau Dashboards]
+- [Overall Platform Comparison]
+  - [Executive Summary]
+  - [Jupyter Notebook]
+  - [Tableau Dashboards]
