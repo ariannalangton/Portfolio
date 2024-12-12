@@ -14,7 +14,7 @@ results. Additionally, the corresponding notebooks and dashboards will be provid
   - [Executive Summary]
   - [Jupyter Notebook]
   - [Tableau Dashboards]
--[Facebook Statistical Analysis]
+- [Facebook Statistical Analysis]
   - [Executive Summary]
   - [Jupyter Notebook]
   - [Tableau Dashboards]
