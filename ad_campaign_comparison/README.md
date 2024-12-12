@@ -10,7 +10,7 @@ results. Additionally, the corresponding notebooks and dashboards will be provid
 
 ## Table of Contents
 - [About](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/README.md#About)         
--[TikTok Statisical Analysis]
+- [TikTok Statisical Analysis]
   - [Executive Summary]
   - [Jupyter Notebook]
   - [Tableau Dashboards]
