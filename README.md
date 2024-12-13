@@ -11,7 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/ariannalangton/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/1708923ac748356858fa665f2fa5288570d6907e/tiktok_video_stats.ipynb) 
+    - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/c94ec4fcd1acb20a80d4908f507b00f14b955fd5/tiktok_claim_analysis/tiktok_video_stats.ipynb)
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/38d1a4317bf731a6ed63411959ac17e9273022d3/inevstor_analysis.ipynb)
     - [(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/bc2899d2ba3eac19c2004f078ec27446a7830c78/airQuality_probabilityDistrib.ipynb)
     - [(Unicorn Companies)](https://github.com/ariannalangton/Portfolio/blob/23547f2771f055c2d4e124c110c900657fcff94c/unicorn_companies.ipynb)
@@ -35,7 +35,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Analyzing TikTok Video Statistics
 
-**Code:** [(TikTok Claim Analysis)](https://github.com/ariannalangton/Portfolio/blob/1708923ac748356858fa665f2fa5288570d6907e/tiktok_video_stats.ipynb)
+**Code:** [(TikTok Claim Analysis)](https://github.com/ariannalangton/Portfolio/blob/c94ec4fcd1acb20a80d4908f507b00f14b955fd5/tiktok_claim_analysis/tiktok_video_stats.ipynb)
 
 **Goal:** Use skills to clean and investigate data following EDA process. Analyze data for TikTok videos and discover trends.
 
