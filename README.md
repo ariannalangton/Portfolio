@@ -36,6 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Analyzing TikTok Video Statistics
 
 **Code:** [(TikTok Claim Analysis)](https://github.com/ariannalangton/Portfolio/blob/f71bee213af1bddaca0a58d7f12e75ba229103cb/tiktok_claim_analysis/tiktok_video_stats.ipynb)
+[(Claim Hypthosesis Testing)](https://github.com/ariannalangton/Portfolio/blob/98275e9c525b04ed8d9f62c409b5d61e1fe05e90/tiktok_claim_analysis/tiktok_hypothesis_testing.ipynb)
 
 **Goal:** Use skills to clean and investigate data following EDA process. Analyze data for TikTok videos and discover trends.
 
