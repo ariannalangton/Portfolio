@@ -143,7 +143,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** [(Results Report)](https://github.com/ariannalangton/Portfolio/blob/8b0abda58593d44e2154e09d479c0a5d6e0bceb7/chaotic%20attractors%20results.pdf)
 
 ### EDA of TikTok Claim Classification
-**Dashboard:** [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/c5d8aef94117dba2fb00d0b446391a9867ff0ddc/EDA_TikTok_Claim_Dashboard.pdf)
+**Dashboard:** [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/f71bee213af1bddaca0a58d7f12e75ba229103cb/tiktok_claim_analysis/EDA_TikTok_Claim_Dashboard.pdf)
 
 **Tableau:** [(TikTok Claim Dashboard on Tableau)](https://public.tableau.com/views/EDAofTiktokClaimClassification/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
