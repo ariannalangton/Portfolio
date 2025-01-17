@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
-    - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/inevstor_analysis.ipynb)
+    - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
     - [(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/airQuality_probabilityDistrib.ipynb)
     - [(Unicorn Companies)](https://github.com/ariannalangton/Portfolio/blob/main/unicorn_companies.ipynb)
     - [(Literacy Data Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/normal_distrib_literacyData.ipynb)      
