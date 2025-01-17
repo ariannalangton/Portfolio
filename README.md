@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
-    - [(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/airQuality_probabilityDistrib.ipynb)
+    - [(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Air-Quality-Probability-Density)
     - [(Unicorn Companies)](https://github.com/ariannalangton/Portfolio/blob/main/unicorn_companies.ipynb)
     - [(Literacy Data Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/normal_distrib_literacyData.ipynb)      
     - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/NASA_Meteorite_data_analysis.ipynb)
@@ -64,7 +64,7 @@ In this section I will list data analytics projects briefly describing the techn
 The analysis identified eight companies that meet the criteria for the Hardware and Artificial Intelligence industries. These companies are: Bitmain, Global Switch, Chipone, Density, BenevolentAI, Geek+, TERMINUS Technology, and Tractable. Additionally, the top five countries ranked by valuation are Germany, Sweden, Australia, France, and Canada. A plot of the top twenty companies is available in the notebook. It is also noteworthy that Europe has a high concentration of unicorn companies in a specific region.
 
 ### Air Quality Probability Density
-**Code:** [(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/bc2899d2ba3eac19c2004f078ec27446a7830c78/airQuality_probabilityDistrib.ipynb)
+**Code:** [(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/air_quality_index_analysis/airQuality_probabilityDistrib.ipynb)
 
 **Goal:** Use skills to find what probability distribution fits the data, and then use Z-score to find outliers. 
 
