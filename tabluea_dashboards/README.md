@@ -1,1 +1,1 @@
-This folder contains screenshots of a few dashboards I have created using Tableau. Posted on my tabluea public[(https://public.tableau.com/app/profile/arianna.langton5684/vizzes)] you can find these as well as additional dashboards I have created.
+This folder contains screenshots of a few dashboards I have created using Tableau. Posted on my [(Tableau Public profile)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes) you can find these as well as additional dashboards I have created.
