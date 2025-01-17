@@ -1,10 +1,10 @@
 # Arianna Langton - Data Analyst Portfolio
 ## About
-Hi, I'm Arianna! I have an analytical background in Physics and currently, I am on track to complete the Advanced Google Data Analytics Professional Certificate. I have developed a strong foundation in the physical sciences and mathematics. My passion for mathematics and problem-solving has naturally led me to pursue a career in data analytics. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hello, I'm Arianna! I hold a Bachelor's degree in Physics with a minor in Mathematics, providing me with a strong analytical foundation in both the physical sciences and mathematics. My passion for problem-solving and mathematics has naturally led me toward a career in data analytics. I have earned both the Google Data Analytics and Google Advanced Data Analytics Certificates and am currently working toward completing the Google Business Intelligence Certificate. This will not only build on my data analytics expertise but also deepen my understanding of the business analytics field. 
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+Throughout my studies, I refined my ability to analyze complex datasets and developed a keen eye for spotting patterns and trends. My experience with data management and statistical analysis has helped me develop a technical mindset that I believe will be a valuable asset in my role as a data specialist. I’m eager to apply my technical and analytical skills to the data science industry as an entry-level data specialist.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+In my spare time, I enjoy exploring new data analysis tools and techniques, always seeking opportunities to further expand my knowledge and skillset. Whether collaborating on a team or working independently, I thrive on uncovering insights and solving complex problems through data. My current technical skills include SQL, Tableau, Python, and Excel, alongside deep understanding of mathematics..
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics.
 ## Table of Contents
