@@ -50,7 +50,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Analyzing Industries and Countires for Investments
 
-**Code:** [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/inevstor_analysis.ipynb)
+**Code:** [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/unicorn_investment_analysis/inevstor_analysis.ipynb)
 
 **Goal:** Use skills to clean and investigate data following EDA process. Analyze data for companies in different industries and countries.
 
