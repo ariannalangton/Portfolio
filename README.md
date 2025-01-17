@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
     - [(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Air-Quality-Probability-Density)
-    - [(Unicorn Companies)](https://github.com/ariannalangton/Portfolio/blob/main/unicorn_companies.ipynb)
+    - [(Unicorn Companies)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Unicorn-Companies-and-Investment-Data)
     - [(Literacy Data Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/normal_distrib_literacyData.ipynb)      
     - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/NASA_Meteorite_data_analysis.ipynb)
     - [(Time to Become a Unicorn Company)](https://github.com/ariannalangton/Portfolio/blob/main/time_to_unicorn_analysis.ipynb)
@@ -78,7 +78,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 ### Analyzing Unicorn Companies and Investment Data
 
-**Code:** [(unicorn_companies.ipynb)](https://github.com/ariannalangton/Portfolio/blob/23547f2771f055c2d4e124c110c900657fcff94c/unicorn_companies.ipynb)
+**Code:** [(unicorn_companies.ipynb)](https://github.com/ariannalangton/Portfolio/blob/main/unicorn_investment_analysis/unicorn_companies.ipynb)
 
 **Goal:** Use skills to clean and investigate data following EDA process. Analyze data trends and find 'Unicorn Companies.'
 
