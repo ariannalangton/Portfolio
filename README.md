@@ -87,7 +87,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** Overall, I discovered that the distribution of the aqi_log data is approximately normal. In addition, using statistical methods such a z-scores, it was determined that the site at West Phoenix has worse air quality than the other sites, and is an outlier who should be considered for support. Upon further analysis, I also identified at the 5% significance level that the Los Angeles mean AQI was statistically different from the rest of California, the confidence interval at the 95% level of confidence from this sample data yielded [10.36 , 13.88], which provides the interpretation "given the observed sample AQI measurements, there is a 95% confidence that the population mean AQI for California was between 10.36 and 13.88.” This range is notably greater than 10, and thus should be considered to receive support. In addition, it was appeared that Michigan had an AQI over 10, but upon further teseting I was unable to conclude at the 5% significance level that Michigan's mean AQI was greater than 10, and am unable to recommend it for support.
 
 ### Literacy Data Probability Density
-**Code:** [(Literacy Data Probability Density)](https://github.com/ariannalangton/Portfolio/blob/bc2899d2ba3eac19c2004f078ec27446a7830c78/normal_distrib_literacyData.ipynb)   
+**Code:** [(Literacy Data Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/normal_distrib_literacyData.ipynb)   
 
 **Goal:** Use skills to find what probability distribution fits the data, and then use Z-score to find outliers. One of the main goals is to determine which district has the lowest literacy scores.
 
@@ -100,7 +100,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** Overall, I discovered that the distribution of the aqi_log data is approximately normal. In addition, using statistical methods, it was determined that districts 434 and 494 have Z-scores less than -3, and so are outliers. As a result, there should be more focus on those districts to improve the literacy score.
 
 ### Analyzing Meteroite Landings Recorded by NASA
-**Code:** [(NASA_Meteorite_data_analysis.ipynb)](https://github.com/ariannalangton/Portfolio/blob/ef320e76983f81345d6d69b4d4bc14628d79b3f7/NASA_Meteorite_data_analysis.ipynb)
+**Code:** [(NASA_Meteorite_data_analysis.ipynb)](https://github.com/ariannalangton/Portfolio/blob/main/NASA_Meteorite_data_analysis.ipynb)
 
 **Goal:** Use skills to clean and investigate data following EDA process. Find and analyze most common mass, year, geographical location, name type, and meteorite class.
 
@@ -113,7 +113,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** Using Python functions the analysis revealed that the year with the most meteorites was 1998. However, the year with the most missing data was 2004 and was followed closely by 2003, which could have skewed the data. For location, the most common spot was (0,0), which is most likely an error. The second most common was in Antarctica. The average mass of all the meteorites was 14020 grams. The average mass was also calcualted for year as well as meteroite class. Ofcourse there are many other characteristics that could have been investigated, but this was enough for my goal.
 
 ### Chaotic Systems of Differenital Equations
-**Code:** [(Chaotic differential Systems of Equations)](https://github.com/ariannalangton/Portfolio/blob/504d9f5afff2dddbe197ccc0b9234bba5ea340b6/Chaotic_Systems.ipynb)
+**Code:** [(Chaotic differential Systems of Equations)](https://github.com/ariannalangton/Portfolio/blob/main/chaotic_systems/Chaotic_Systems.ipynb)
 
 **Goal:** Simulate and solve three different chaotic systems of ordinary differential equations; Lorenz, Chua, Rössler. Discover what inital conditions, or coefficients, cause the system to become chaotic attractors. An attractor describes a state to which a dynamical system evolves after a long enough time.
 
@@ -122,12 +122,12 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 **Technology:** Python, Pandas, Numpy, Matplotlib, SciPy, mpl_toolkits.mplot3d
 
-**Results:** [(Results Report)](https://github.com/ariannalangton/Portfolio/blob/8b0abda58593d44e2154e09d479c0a5d6e0bceb7/chaotic%20attractors%20results.pdf)
+**Results:** [(Results Report)](https://github.com/ariannalangton/Portfolio/blob/main/chaotic_systems/chaotic%20attractors%20results.pdf)
 
 ## Tableau
 
 ### EDA of TikTok Claim Classification
-**Dashboard:** [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/f71bee213af1bddaca0a58d7f12e75ba229103cb/tiktok_claim_analysis/EDA_TikTok_Claim_Dashboard.pdf)
+**Dashboard:** [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/tiktok_claim_analysis/tiktok_claim_analysis/EDA_TikTok_Claim_Dashboard.pdf)
 
 **Tableau:** [(TikTok Claim Dashboard on Tableau)](https://public.tableau.com/views/EDAofTiktokClaimClassification/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -140,7 +140,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** By utilizing Tableau's plots and aggregation functions, I created a scatter plot to show the relationship between a videos like count and view count for claims and opinions. In addition, I visualized the total amount of claims v.s opinions, as well as an author status (active, banned, or under review) and the type of video posted by each status.
 
 ### League of Legends V13.1 Statistics
-**Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/5b5126c4eb52a489c2b5a16a198298328f6093d6/league_of__ledgends_dashboard.png)
+**Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/tableau_dashboards/league_of__ledgends_dashboard.png)
 
 **Tableau:** [(League of Legends Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/leagueoflegendsstats/Dashboard2)
 
@@ -153,7 +153,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** By utilizing Tableau's built-in aggregation functions, I determined that Caitlyn was the most played champion, while Zed was the most banned. Furthermore, Singed had the highest win rate among all champions when played in the Mid role, and Mid being the role with the highest overall win rate. Additionally, I visualized the top 8 most played champions and the roles in which they are most frequently selected.
 
 ### U.S Women Elected Officials
-**Dashboard:** [(U.S Women Elected Officals Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/a3e2b93bd28c35742cffb0a9d3f3b0ee5d6185c5/us_women_officials.png)
+**Dashboard:** [(U.S Women Elected Officals Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/tableau_dashboards/us_women_officials.png)
 
 **Tableau:** [(U.S Women Elected Officials Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/U_SWomenElectedOfficialsDemographics/Dashboard2)
 
@@ -166,7 +166,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** Using Tableau, I found that 68% of women elected officials are White. The Democratic Party has the highest representation of women, accounting for 64% of all elected women. New Hampshire leads the states with the most elected women, comprising 5.9% of all women in office.
 
 ### Grocery Store KPI Dashboard
-**Dashboard:** [(Grocery Store KPI Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/9e84e895d87f93f932188b19805f45b936bea026/profit%20dashboard.png)
+**Dashboard:** [(Grocery Store KPI Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/tableau_dashboards/profit%20dashboard.png)
 
 **Tableau:** [(Grocery Store KPI Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/2015SalesDashboard_17313755663760/profitdashboard)
 
