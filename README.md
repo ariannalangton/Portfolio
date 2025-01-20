@@ -183,6 +183,7 @@ Bachelor of Science, Physics |
 ## Certificates
 
 Google Data Analytics Professional Certificate (Aug 2024) (Coursera - Google)
+Google Advanced Data Analytics Professional Certificate (Jan 2025) (Coursera - Google)
 
 ## Contacts
 - LinkedIn: [@ariannalangton](https://www.linkedin.com/in/arianna-langton-844b03252)
