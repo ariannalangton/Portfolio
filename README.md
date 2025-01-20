@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Tableau](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Tableau)
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
       - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#EDA-of-TikTok-Claim-Classification)
-      - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-V13)
+      - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-Statistics)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Women-Elected-Officials)
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Grocery-Store-KPI-Dashboard)
 
@@ -139,7 +139,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 **Results:** By utilizing Tableau's plots and aggregation functions, I created a scatter plot to show the relationship between a videos like count and view count for claims and opinions. In addition, I visualized the total amount of claims v.s opinions, as well as an author status (active, banned, or under review) and the type of video posted by each status.
 
-### League of Legends V13.1 Statistics
+### League of Legends Statistics
 **Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/league_of__ledgends_dashboard.png)
 
 **Tableau:** [(League of Legends Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/leagueoflegendsstats/Dashboard2)
