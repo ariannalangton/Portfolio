@@ -140,7 +140,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** By utilizing Tableau's plots and aggregation functions, I created a scatter plot to show the relationship between a videos like count and view count for claims and opinions. In addition, I visualized the total amount of claims v.s opinions, as well as an author status (active, banned, or under review) and the type of video posted by each status.
 
 ### League of Legends V13.1 Statistics
-**Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/tableau_dashboards/league_of__ledgends_dashboard.png)
+**Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/league_of__ledgends_dashboard.png)
 
 **Tableau:** [(League of Legends Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/leagueoflegendsstats/Dashboard2)
 
@@ -153,7 +153,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** By utilizing Tableau's built-in aggregation functions, I determined that Caitlyn was the most played champion, while Zed was the most banned. Furthermore, Singed had the highest win rate among all champions when played in the Mid role, and Mid being the role with the highest overall win rate. Additionally, I visualized the top 8 most played champions and the roles in which they are most frequently selected.
 
 ### U.S Women Elected Officials
-**Dashboard:** [(U.S Women Elected Officals Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/tableau_dashboards/us_women_officials.png)
+**Dashboard:** [(U.S Women Elected Officals Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/us_women_officials.png)
 
 **Tableau:** [(U.S Women Elected Officials Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/U_SWomenElectedOfficialsDemographics/Dashboard2)
 
@@ -166,7 +166,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** Using Tableau, I found that 68% of women elected officials are White. The Democratic Party has the highest representation of women, accounting for 64% of all elected women. New Hampshire leads the states with the most elected women, comprising 5.9% of all women in office.
 
 ### Grocery Store KPI Dashboard
-**Dashboard:** [(Grocery Store KPI Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/tableau_dashboards/profit%20dashboard.png)
+**Dashboard:** [(Grocery Store KPI Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/profit%20dashboard.png)
 
 **Tableau:** [(Grocery Store KPI Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/2015SalesDashboard_17313755663760/profitdashboard)
 
