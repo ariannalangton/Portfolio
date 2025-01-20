@@ -166,7 +166,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** Using Tableau, I found that 68% of women elected officials are White. The Democratic Party has the highest representation of women, accounting for 64% of all elected women. New Hampshire leads the states with the most elected women, comprising 5.9% of all women in office.
 
 ### Grocery Store KPI Dashboard
-**Dashboard:** [(Grocery Store KPI Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/profit%20dashboard.png)
+**Dashboard:** [(Grocery Store KPI Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/super_market_KPI_dash.png)
 
 **Tableau:** [(Grocery Store KPI Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/2015SalesDashboard_17313755663760/profitdashboard)
 
