@@ -10,14 +10,14 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/ariannalangton/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
-  - Python
+  - [Python](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Python)
     - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
     - [(Air Quality Analysis )](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Air-Quality-Probability-Density)
     - [(Literacy Data Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/normal_distrib_literacyData.ipynb)      
     - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/NASA_Meteorite_data_analysis.ipynb)
     - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/main/Chaotic_Systems.ipynb)
-  - Tableau
+  - [Tableau](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Tableau)
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
       - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/EDA_TikTok_Claim_Dashboard.pdf)
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/league_of__ledgends_dashboard.png)
@@ -31,7 +31,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-
+## Python
 
 ### Analyzing TikTok Video Statistics
 
@@ -119,6 +119,8 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Technology:** Python, Pandas, Numpy, Matplotlib, SciPy, mpl_toolkits.mplot3d
 
 **Results:** [(Results Report)](https://github.com/ariannalangton/Portfolio/blob/8b0abda58593d44e2154e09d479c0a5d6e0bceb7/chaotic%20attractors%20results.pdf)
+
+## Tableau
 
 ### EDA of TikTok Claim Classification
 **Dashboard:** [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/f71bee213af1bddaca0a58d7f12e75ba229103cb/tiktok_claim_analysis/EDA_TikTok_Claim_Dashboard.pdf)
