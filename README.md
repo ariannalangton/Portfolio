@@ -72,15 +72,15 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 ### Air Quality Probability Density
 **Code:** [(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/air_quality_index_analysis/airQuality_probabilityDistrib.ipynb)
 
-**Goal:** Use skills to find what probability distribution fits the data, and then use Z-score to find outliers. 
+**Goal:** Use skills to find what probability distribution fits the data, then use Z-score to find outliers, and finally use hypothesis tests and confidence intervals to check for statistical significane. 
 
-**Description:** I will be using data from the United States Environmental Protection Agency (EPA). The data includes information about more than 200 sites, identified by state, county, city, and local site names. One of the main goals is to determine which regions need support to make air quality improvements. Given that carbon monoxide is a major air pollutant, I will investigate data from the Air Quality Index (AQI) with respect to carbon monoxide. I will then use the central limit theorem to prove that data can be fit by a normal distribution. Following any results, I will perform hypothesis tests and calculate confidence intervals to see if the results of the findings are statistically significant and should be used to decide which states need support.
+**Description:** I will be using data from the United States Environmental Protection Agency (EPA). The data includes information about more than 200 sites, identified by state, county, city, and local site names. One of the main goals is to determine which regions need support to make air quality improvements. Given that carbon monoxide is a major air pollutant, I will investigate data from the Air Quality Index (AQI) with respect to carbon monoxide. An AQI over 10 would qualify the area for support. I will use the central limit theorem to prove that data can be fit by a normal distribution. I will then perform hypothesis tests and calculate confidence intervals to see if the results of the findings are statistically significant and should be used to decide which states need support.
 
 **Skills:** data cleaning, data analysis, data visualization, probability.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy
 
-**Results:** Overall, I discovered that the distribution of the aqi_log data is approximately normal. In addition, using statistical methods, it was determined that the site at West Phoenix has worse air quality than the other sites, and is an outlier. 
+**Results:** Overall, I discovered that the distribution of the aqi_log data is approximately normal. In addition, using statistical methods, it was determined that the site at West Phoenix has worse air quality than the other sites, and is an outlier. Upon further analysis, I identified at the 5% significance level that the Los Angeles mean AQI was statistically different from the rest of California, and that New York does have a lower mean AQI than Ohio. However, I was unable to conclude at the 5% significance level that Michigan's mean AQI was greater than 10. In addition, the confidence interval at the 95% level of confidence from this sample data yielded [10.36 , 13.88], which provides the interpretation "given the observed sample AQI measurements, there is a 95% confidence that the population mean AQI for California was between 10.36 and 13.88.” This range is notably greater than 10, and thus should be considered to receive support.
 
 ### Literacy Data Probability Density
 **Code:** [(Literacy Data Probability Density)](https://github.com/ariannalangton/Portfolio/blob/bc2899d2ba3eac19c2004f078ec27446a7830c78/normal_distrib_literacyData.ipynb)   
