@@ -74,13 +74,13 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 **Goal:** Use skills to find what probability distribution fits the data, and then use Z-score to find outliers. 
 
-**Description:** I will be using data from United States Environmental Protection Agency (EPA). The data includes information about more than 200 sites, identified by state, county, city, and local site names. One of the main goals is to determine which regions need support to make air quality improvements. Given that carbon monoxide is a major air pollutant, I will investigate data from the Air Quality Index (AQI) with respect to carbon monoxide.
+**Description:** I will be using data from the United States Environmental Protection Agency (EPA). The data includes information about more than 200 sites, identified by state, county, city, and local site names. One of the main goals is to determine which regions need support to make air quality improvements. Given that carbon monoxide is a major air pollutant, I will investigate data from the Air Quality Index (AQI) with respect to carbon monoxide. I will then use the central limit theorem to prove that data can be fit by a normal distribution. Following any results, I will perform hypothesis tests and calculate confidence intervals to see if the results of the findings are statistically significant and should be used to decide which states need support.
 
 **Skills:** data cleaning, data analysis, data visualization, probability.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy
 
-**Results:** Overall, I discovered that the distribution of the aqi_log data is approximately normal. In addition, using statistical methods, it was determined that the site at West Phoenix has worse air quality than the other sites, and is an outlier. finally, the EPA should consider allocating more resources toward further examining this site in order to improve its air quality."
+**Results:** Overall, I discovered that the distribution of the aqi_log data is approximately normal. In addition, using statistical methods, it was determined that the site at West Phoenix has worse air quality than the other sites, and is an outlier. 
 
 ### Literacy Data Probability Density
 **Code:** [(Literacy Data Probability Density)](https://github.com/ariannalangton/Portfolio/blob/bc2899d2ba3eac19c2004f078ec27446a7830c78/normal_distrib_literacyData.ipynb)   
