@@ -63,7 +63,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Skills:** data cleaning, data analysis, data visualization, regression analysis.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, statsmodels
 
 **Results:** After analyzing the data  using linear regression and performing hypothesis tests for significance, I was able to reject the null hypothesis and state that there is a relationship between radio promotion budget and sales for companies in this data. However, of the three available promotion types (TV, radio, and social media), TV has the strongest positive linear relationship with sales. According to the model, an increase of one million dollars for the TV promotional budget will result in an estimated 3.5614 million dollars more in sales. Using statistical methods of evaluation I can say this is a very confident estimate, as the p-value for this coefficient estimate is small. Thus, the business should prioritize increasing the TV promotional budget over the radio and social media promotional budgets to increase sales.
 
