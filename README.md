@@ -13,11 +13,9 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
-    - [(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Air-Quality-Probability-Density)
-    - [(Unicorn Companies)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Unicorn-Companies-and-Investment-Data)
-    - [(Literacy Data Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/normal_distrib_literacyData.ipynb)      
+    - [(Air Quality Analysis )](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Air-Quality-Probability-Density)
+    - [(Literacy Data Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/normal_distrib_literacyData.ipynb)      
     - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/NASA_Meteorite_data_analysis.ipynb)
-    - [(Time to Become a Unicorn Company)](https://github.com/ariannalangton/Portfolio/blob/main/time_to_unicorn_analysis.ipynb)
     - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/main/Chaotic_Systems.ipynb)
   - Tableau
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
