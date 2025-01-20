@@ -55,13 +55,13 @@ In this section I will list data analytics projects briefly describing the techn
 ### Analyzing Marketing Campaigns on Different Platforms
 
 **Code:** [(General Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/marketing_budget_analysis/linearRegression_TVbudget_sales.ipynb)
-[()](https://github.com/ariannalangton/Portfolio/blob/main/marketing_budget_analysis/linearRegression_radioBudget_sales.ipynb)
+[(Radio vs Sales Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/marketing_budget_analysis/linearRegression_radioBudget_sales.ipynb)
 
-**Goal:** Aanlyze data for trends between sales and allocated budget. Select the platform with the best relationship between budget and sales generated to recommend for further invesetment.
+**Goal:** Anlyze data for trends between sales and allocated budget using linear regression. Select the platform with the best relationship between budget and sales generated to recommend for further invesetment.
 
 **Description:** For this activity, I will explore the relationship between marketing promotional budgets and sales using linear regression. The dataset provided includes information about the budget allocated for marketing campaigns across TV, radio, and social media, as well as how much revenue in sales was generated from these campaigns. I will select the platforms that have the most promising relationship between sales and budget and investigate further. After the general analysis, I will also explore the relationship between the radio promotion budget and the sales revenue. Based on this information, decisions about where to focus future marketing efforts will be made, so it is critical to have a clear understanding of the relationship between the different types of marketing and the revenue they generate. 
 
-**Skills:** data cleaning, data analysis, data visualization.
+**Skills:** data cleaning, data analysis, data visualization, regression analysis.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
 
