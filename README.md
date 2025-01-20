@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
     - [(Air Quality Analysis )](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Air-Quality-Probability-Density)
-    - [(Literacy Data Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/normal_distrib_literacyData.ipynb)      
+    - [(Literacy Data Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Literacy-Data-Probability-Density)      
     - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/NASA_Meteorite_data_analysis.ipynb)
     - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/main/Chaotic_Systems.ipynb)
   - [Tableau](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Tableau)
