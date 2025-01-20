@@ -12,6 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
   - [Python](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Python)
     - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
+    - [(Marketing Platform ROI Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-marketing-campaigns)
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
     - [(Air Quality Analysis )](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Air-Quality-Probability-Density)
     - [(Literacy Data Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Literacy-Data-Probability-Density)      
@@ -50,6 +51,22 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
 
 **Results:** I observed that TikTok videos flagged as claims receive significantly more views than those flagged as opinions, despite a similar number of videos being posted for both categories. Furthermore, the author status of the user is mainly active across both claim types. However, the proportion of active authors is greater in the opinion category. This suggests that users posting claims are more likely to have their accounts banned or under review. Additionally, all video statistics showed a right-skewed distribution, except for video duration, which exhibited a fairly uniform distribution. Overall, videos that posts claims are likely to get more views and likes than those that are opinions, but the account status is more likely to be banned or under review.
+
+### Analyzing Marketing Campaigns on Different Platforms
+
+**Code:** [(General Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/marketing_budget_analysis/linearRegression_TVbudget_sales.ipynb)
+[()](https://github.com/ariannalangton/Portfolio/blob/main/marketing_budget_analysis/linearRegression_radioBudget_sales.ipynb)
+
+**Goal:** Aanlyze data for trends between sales and allocated budget. Select the platform with the best relationship between budget and sales generated to recommend for further invesetment.
+
+**Description:** For this activity, I will explore the relationship between marketing promotional budgets and sales using linear regression. The dataset provided includes information about the budget allocated for marketing campaigns across TV, radio, and social media, as well as how much revenue in sales was generated from these campaigns. I will select the platforms that have the most promising relationship between sales and budget and investigate further. After the general analysis, I will also explore the relationship between the radio promotion budget and the sales revenue. Based on this information, decisions about where to focus future marketing efforts will be made, so it is critical to have a clear understanding of the relationship between the different types of marketing and the revenue they generate. 
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
+
+**Results:** After analyzing the data  using linear regression and performing hypothesis tests for significance, I was able to reject the null hypothesis and state that there is a relationship between radio promotion budget and sales for companies in this data. However, of the three available promotion types (TV, radio, and social media), TV has the strongest positive linear relationship with sales. According to the model, an increase of one million dollars for the TV promotional budget will result in an estimated 3.5614 million dollars more in sales. Using statistical methods of evaluation I can say this is a very confident estimate, as the p-value for this coefficient estimate is small. Thus, the business should prioritize increasing the TV promotional budget over the radio and social media promotional budgets to increase sales.
+
 
 ### Analyzing Industries and Countires for Investments
 
