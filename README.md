@@ -26,6 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Grocery-Store-KPI-Dashboard)
   - [SQL](https://github.com/ariannalangton/Portfolio/blob/main/README.md#SQL)
   - [Excel and Sheets](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Excel-and-Sheets)
+      - [(Clean Data for a Gym Directory)]((https://github.com/ariannalangton/Portfolio/blob/main/README.md#Cleaning-Web-Scraped-Data-for-a-Directory)
 
 - [Education](https://github.com/ariannalangton/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/ariannalangton/Portfolio/blob/main/README.md#certificates)
@@ -200,6 +201,22 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 ## SQL
 
 ## Excel and Sheets
+
+### Cleaning Web Scraped Data for a Directory
+
+**Goal:** The data will be used to create a directory of Jiu-Jutsu gyms for each state, organized by city. The information is gathered through a web-scraping tool that will be used to search for jiu-jutsu gyms in certain cities for each state. My task was to select the appropriate cities and clean and filter the query data using specific criteria to ensure that only relevant gyms are included for each state.
+
+**Description:** The data collection process took place in two stages. First, I compiled a comprehensive list of cities for each state, removing those unlikely to serve marketing purposes, such as cities with small populations, to optimize the search query. Once the relevant cities were identified, I organized the list in Excel, ensuring it was formatted to work with the web scraping tool, which required the format “jiu-jutsu gym in [city] [state].” After proper formatting, the query was executed, and the data was gathered. 
+
+Once the data was received, I began cleaning it in Google Sheets, following specific guidelines. This initial cleanup involved removing gyms that were either located in the wrong state or lacked crucial details like names or addresses. Collaborating with the digital marketer, we established criteria to filter for promising gyms: we focused on those with over 10 reviews and filtered by categories and names containing terms such as BJJ, jiu, jutsu, MMA, martial, Gracie, and ground. We also conducted a final review to eliminate gyms that included terms like TKD, kung fu, or taekwondo, which might have slipped through the initial filters. 
+
+Next, I ensured that the city and address were placed in separate columns, as required by the marketer to import the gyms into the directory. This was done using the "text to columns" function in Excel. I also made any final formatting adjustments, such as removing blank rows, highlighting, or resizing rows as needed. 
+
+As a result, the total number of gyms in the list was significantly reduced. For Alabama, the count dropped from 429 to 73 key Jiu-jutsu gyms that were prioritized for inclusion in the directory.
+
+**Skills:** data cleaning, data analysis, metrics, google sheets, power query/ power tools
+
+**Technology:** google sheets, power tools, web scraping
 
 ## Education
 
