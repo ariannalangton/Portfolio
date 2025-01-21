@@ -24,6 +24,8 @@ This is a repository to showcase skills, share projects and track my progress in
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-Statistics)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Women-Elected-Officials)
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Grocery-Store-KPI-Dashboard)
+  - [SQL](https://github.com/ariannalangton/Portfolio/blob/main/README.md#SQL)
+  - [Excel and Sheets](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Excel-and-Sheets)
 
 - [Education](https://github.com/ariannalangton/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/ariannalangton/Portfolio/blob/main/README.md#certificates)
@@ -194,6 +196,10 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Skills:** data cleaning, data analysis, data visualization, KPIs, Sales Metrics.
 
 **Results:** Using Tableau, I discovered that sales for 2015 totaled 4.29M, reflecting a 26.2% increase compared to 2014. Additionally, profit saw a 23.8% year-to-date increase, while the quantity sold rose by 25.9%. The highest sales came from the Technology category, with Phones being the top sub-category. The region generating the most profit for the store was Asia, closely followed by Europe.
+
+## SQL
+
+## Excel and Sheets
 
 ## Education
 
