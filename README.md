@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Grocery-Store-KPI-Dashboard)
   - [SQL](https://github.com/ariannalangton/Portfolio/blob/main/README.md#SQL)
   - [Excel and Sheets](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Excel-and-Sheets)
-      - [(Clean Data for a Gym Directory)]((https://github.com/ariannalangton/Portfolio/blob/main/README.md#Cleaning-Web-Scraped-Data-for-a-Directory)
+      - [(Clean Data for a Gym Directory)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Cleaning-Web-Scraped-Data-for-a-Directory)
 
 - [Education](https://github.com/ariannalangton/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/ariannalangton/Portfolio/blob/main/README.md#certificates)
