@@ -204,6 +204,8 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 ### Cleaning Web Scraped Data for a Directory
 
+**Files:** [(Cleaning Alabama Data)](https://github.com/ariannalangton/Portfolio/tree/main/cleaning_webscraped_data)
+
 **Goal:** The data will be used to create a directory of Jiu-Jutsu gyms for each state, organized by city. The information is gathered through a web-scraping tool that will be used to search for jiu-jutsu gyms in certain cities for each state. My task was to select the appropriate cities and clean and filter the query data using specific criteria to ensure that only relevant gyms are included for each state.
 
 **Description:** The data collection process took place in two stages. First, I compiled a comprehensive list of cities for each state, removing those unlikely to serve marketing purposes, such as cities with small populations, to optimize the search query. Once the relevant cities were identified, I organized the list in Excel, ensuring it was formatted to work with the web scraping tool, which required the format “jiu-jutsu gym in [city] [state].” After proper formatting, the query was executed, and the data was gathered. 
