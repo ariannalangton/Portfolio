@@ -17,7 +17,7 @@ results. Additionally, the corresponding notebooks and dashboards will be provid
 - [Facebook Statistical Analysis]
   - [Executive Summary]
   - [Jupyter Notebook]
-  - [Tableau Dashboards]
+  - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Dashboard1)
 - [Google Statistical Analysis]
   - [Executive Summary]
   - [Jupyter Notebook]
