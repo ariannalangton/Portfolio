@@ -12,11 +12,11 @@ results. Additionally, the corresponding notebooks and dashboards will be provid
 - [About](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/README.md#About)         
 - [TikTok Statisical Analysis]
   - [Executive Summary]
-  - [Jupyter Notebook]
+  - [Jupyter Notebook] 
   - [Tableau Dashboards]
 - [Facebook Statistical Analysis]
   - [Executive Summary]
-  - [Jupyter Notebook]
+  - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/Facebook_Ad_Statistical_Analysis.ipynb)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Dashboard1)
 - [Google Statistical Analysis]
   - [Executive Summary]
