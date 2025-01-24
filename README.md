@@ -24,6 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-Statistics)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Women-Elected-Officials)
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Grocery-Store-KPI-Dashboard)
+      - [(Minnesota Traffic Volume Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Minnesota-Traffic-Volume-Analysis)
   - [SQL](https://github.com/ariannalangton/Portfolio/blob/main/README.md#SQL)
   - [Excel and Sheets](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Excel-and-Sheets)
       - [(Clean Data for a Gym Directory)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Cleaning-Web-Scraped-Data-for-a-Directory)
@@ -197,6 +198,21 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Skills:** data cleaning, data analysis, data visualization, KPIs, Sales Metrics.
 
 **Results:** Using Tableau, I discovered that sales for 2015 totaled 4.29M, reflecting a 26.2% increase compared to 2014. Additionally, profit saw a 23.8% year-to-date increase, while the quantity sold rose by 25.9%. The highest sales came from the Technology category, with Phones being the top sub-category. The region generating the most profit for the store was Asia, closely followed by Europe.
+
+### Minnesota Traffic Volume Analysis
+**Dashboard:** [(Traffic Voulme Dashboard PDF)](https://github.com/ariannalangton/Portfolio/blob/main/traffic_volume_analysis/minnesota_traffic_volume_dash.png)
+
+**Tableau:** [(Traffic Volume Dashboard on Tableau)](https://public.tableau.com/app/profile/arianna.langton5684/viz/MinnesotaTrafficVolumeDashboard_17376035629680/Dashboard1)
+
+**Report:** [(Traffic Volume Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/traffic_volume_analysis/Consulting-Traffic-Volume-proposal.pdf)
+
+**Goal:** Create a Tableau dashboard to easily present patterns in traffic such as holidays, weather, time of day, and by year.
+
+**Description:** Analyzed sales data from Minnesota for any traffic patterns that could reveal a cause for high traffic volume.
+
+**Skills:** data analysis, dashboard visualization, tableau.
+
+**Results:** Using Tableau, I found that August had the highest traffic volume, likely due to end-of-summer activities, while February had the lowest traffic. I also discovered that clear or cloudy days generally see the most traffic, with a decrease during rainy conditions, and the least traffic occurs when it’s foggy or visibility is impaired. Additionally, holidays like New Year’s Day and MLK Jr. Day in January, as well as Labor Day in September, contribute to traffic spikes. Analyzing traffic by hour and day reveals that it peaks during rush hours, as people commute to and from work, and also shows that holidays have minimal overall effect on traffic.
 
 ## SQL
 
