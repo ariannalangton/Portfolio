@@ -1,4 +1,4 @@
-### Facebook Ad Campaign Analsys
+### Facebook Ad Campaign Analysis
 
 In this folder there are three files; an executive summary of the project,  a screenshot of the dashboard I created on Tableau(https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Dashboard1), and the python notebook I created using google colab to analyze the data. For this part of the project, i analzyed the data provided by a digital media specialist who ran an ad through Facebook's ad platform. I analyzed the statistical significance of the demographic data, focusing on age and gender. Additionally, I examined the times of day when the ads receive the most views. I also plan to calculate the expected conversion rate, click through rate, and impressions to conversion rate using a 95% confidence interval. 
 
