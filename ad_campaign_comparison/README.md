@@ -9,15 +9,15 @@ hypothesis tests, and regression analysis. This folder contains Executive Summar
 results. Additionally, the corresponding notebooks and dashboards will be provided.
 
 ## Table of Contents
-- [About](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/README.md#About)         
+- [About]      
 - [TikTok Statisical Analysis]
   - [Executive Summary]
   - [Jupyter Notebook] 
   - [Tableau Dashboards]
-- [Facebook Statistical Analysis]
-  - [Executive Summary]
-  - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/Facebook_Ad_Statistical_Analysis.ipynb)
+- [Facebook Statistical Analysis]  
+  - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/facebook/ad_campaign_comparison/Facebook_Ad_Statistical_Analysis.ipynb)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Dashboard1)
+  - [Executive Summary](https://github.com/ariannalangton/Portfolio/blob/main/facebook/ad_campaign_comparison/README.md#About) 
 - [Google Statistical Analysis]
   - [Executive Summary]
   - [Jupyter Notebook]
