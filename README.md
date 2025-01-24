@@ -204,7 +204,7 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 **Tableau:** [(Traffic Volume Dashboard on Tableau)](https://public.tableau.com/app/profile/arianna.langton5684/viz/MinnesotaTrafficVolumeDashboard_17376035629680/Dashboard1)
 
-**Report:** [(Traffic Volume Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/traffic_volume_analysis/Consulting-Traffic-Volume-proposal.pdf)
+**Report:** [(Traffic Volume Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/traffic_volume_analysis/Consulting%20Traffic%20Volume%20proposal.pdf)
 
 **Goal:** Create a Tableau dashboard to easily present patterns in traffic such as holidays, weather, time of day, and by year.
 
