@@ -11,8 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/ariannalangton/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
   - [Python](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Python)
-    - [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison)
-      - [(Facebook Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/facebook)    
+    - [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#/Analyzing-Ad-Platform-Success)   
     - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
     - [(Marketing Platform ROI Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-marketing-campaigns-on-different-platforms)
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
@@ -39,6 +38,24 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## Python
+
+### Analyzing Ad Platform Success
+
+**Overview:** [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison)   
+
+**Platform Folders:** [(Facebook Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/facebook) 
+
+**Dashboards:** [(Facebook Ad Campaign Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Dashboard1#1)
+
+**Goal:** Apply data cleaning and formatting techniques to prepare data for creating dashboards that showcase key metrics, including impressions, conversion rate, click-through rate, and demographic information across Facebook, TikTok, and Google Ads platform. Additionally, conduct statistical analysis to validate that observed trends are statistically significant and reliable for future decision-making. Finally, perform a comprehensive review to determine which platform delivered the best performance.
+
+**Description:** 
+
+**Skills:** data cleaning, data analysis, data visualization, statisical analysis, hypothesis testing.
+
+**Technology:** Python, Pandas, Numpy, Matplotlib, scipy, tableau
+
+**Results:**
 
 ### Analyzing TikTok Video Statistics
 
