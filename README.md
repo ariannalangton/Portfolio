@@ -49,7 +49,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** Apply data cleaning and formatting techniques to prepare data for creating dashboards that showcase key metrics, including impressions, conversion rate, click-through rate, and demographic information across Facebook, TikTok, and Google Ads platform. Additionally, conduct statistical analysis to validate that observed trends are statistically significant and reliable for future decision-making. Finally, perform a comprehensive review to determine which platform delivered the best performance.
 
-**Description:** 
+**Description:** For this project, I analyzed data provided by a digital media specialist who ran ads across Facebook, TikTok, and Google Ads platforms. My analysis focused on the statistical significance of demographic data, specifically age and gender. I also examined the times of day when the ads received the most views. Additionally, I calculated the expected conversion rate, click-through rate, and impressions to conversion rate using a 95% confidence interval, as well as evaluating the cost using either CPM (cost per thousand impressions) or CPC (cost per click) to identify the most effective demographics to target. Finally, I compared the overall success of the campaigns by analyzing metrics such as cost and conversion rate to determine which platform was the most successful.
 
 **Skills:** data cleaning, data analysis, data visualization, statisical analysis, hypothesis testing.
 
