@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
   - [Python](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Python)
     - [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison)
-      - [(Facebook Ad Analysis)]()    
+      - [(Facebook Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/facebook)    
     - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
     - [(Marketing Platform ROI Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-marketing-campaigns-on-different-platforms)
     - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
