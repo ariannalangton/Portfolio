@@ -14,6 +14,8 @@ results. Additionally, the corresponding notebooks and dashboards will be provid
   - [Executive Summary]
   - [Jupyter Notebook] 
   - [Tableau Dashboards]
+    - [Demographic Dashboard](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
+    - [Metrics Dashboard](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)   
 - [Facebook Statistical Analysis](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/README.md)
   - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Dashboard1)
