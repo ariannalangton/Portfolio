@@ -48,7 +48,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:**
   -  Facebook
-    -[(Facebook Ads Statistical Analysis)]
+    -[(Facebook Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
 
 **Dashboards:** 
   - Facebook
