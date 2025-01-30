@@ -220,9 +220,7 @@ For this project, a repeat caller is someone who calls again about the same issu
 
 
 ### EDA of TikTok Claim Classification
-**Dashboard:** [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/tiktok_claim_analysis/tiktok_claim_analysis/EDA_TikTok_Claim_Dashboard.pdf)
-
-**Tableau:** [(TikTok Claim Dashboard on Tableau)](https://public.tableau.com/views/EDAofTiktokClaimClassification/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Dashboard:** [(TikTok Claim Dashboard on Tableau)](https://public.tableau.com/views/EDAofTiktokClaimClassification/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Goal:** Use TIkTok claim statistics to build easy to understand visualizations.
 
@@ -233,7 +231,7 @@ For this project, a repeat caller is someone who calls again about the same issu
 **Results:** By utilizing Tableau's plots and aggregation functions, I created a scatter plot to show the relationship between a videos like count and view count for claims and opinions. In addition, I visualized the total amount of claims v.s opinions, as well as an author status (active, banned, or under review) and the type of video posted by each status.
 
 ### Women Elected Officials
-**Dashboard:** [(U.S Women Elected Officals Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/us_women_officials.png)
+**Dashboard IMG:** [(U.S Women Elected Officals Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/us_women_officials.png)
 
 **Tableau:** [(U.S Women Elected Officials Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/U_SWomenElectedOfficialsDemographics/Dashboard2)
 
