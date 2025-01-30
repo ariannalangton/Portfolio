@@ -21,7 +21,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Chaotic-Systems-of-Differenital-Equations)
   - [Tableau](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Tableau)
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
-      - [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Ad-Campaign-Comparison)  
+      - [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Ad-Campaign-Comparison)
+      - [(Google Fiber Repeat Calls)] 
       - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#EDA-of-TikTok-Claim-Classification)
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-Statistics)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Women-Elected-Officials)
@@ -250,9 +251,9 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** Using Tableau, I discovered that sales for 2015 totaled 4.29M, reflecting a 26.2% increase compared to 2014. Additionally, profit saw a 23.8% year-to-date increase, while the quantity sold rose by 25.9%. The highest sales came from the Technology category, with Phones being the top sub-category. The region generating the most profit for the store was Asia, closely followed by Europe.
 
 ### Minnesota Traffic Volume Analysis
-**Dashboard:** [(Traffic Voulme Dashboard PDF)](https://github.com/ariannalangton/Portfolio/blob/main/traffic_volume_analysis/minnesota_traffic_volume_dash.png)
+**Dashboard:** [(Traffic Voulme Dashboard PDF)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/minnesotaTrafficVolume_dashboard.png)
 
-**Tableau:** [(Traffic Volume Dashboard on Tableau)](https://public.tableau.com/app/profile/arianna.langton5684/viz/MinnesotaTrafficVolumeDashboard_17376035629680/Dashboard1)
+**Tableau:** [(Traffic Volume Dashboard on Tableau)](https://public.tableau.com/app/profile/arianna.langton5684/viz/MinnesotaTrafficVolumeDashboard_17376035629680/Story1)
 
 **Report:** [(Traffic Volume Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/traffic_volume_analysis/Consulting%20Traffic%20Volume%20proposal.pdf)
 
