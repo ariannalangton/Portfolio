@@ -175,9 +175,9 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 
 ### Ad Campaign Comparison
 **Dashboards on Tableau:**
-***TikTok: *** [(TIikTok Demographics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
+  - TikTok: [(TIikTok Demographics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
 [(TikTok KPI Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)
-***Facebook: ***
+  - Facebook:
 [(Facebook Metrics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Dashboard1)
 
 **Goal:** Create dashboards to allow viewers to easily interpret data and extract insights.
