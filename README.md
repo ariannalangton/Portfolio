@@ -73,22 +73,6 @@ In this section I will list data analytics projects briefly describing the techn
   - The ad was most frequently seen during early morning hours, lunch breaks, and late afternoon, aligning with typical routines of the older demographic. However, due to the minor differences in impressions during the top viewing hours, more data is required to determine the most effective time for ad placements.
   - It performed well in terms of conversion and click-through rates, surpassing industry averages. The 30% conversion rate is particularly notable, but the relatively low impression-to-conversion rate (1.4%).
 
-### Google Fiber Repeat Calls Analysis
-
-**Tableau Dashboard:** [(Google Fiber Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GooglefiberRepeatCallsAnalysis/Story1)
-
-**Goal:** Analyze the Google Fiber data and create a dashboard in order for viewer to easily find trends in inquiries.
-
-**Description:** I was given the following requirements when creating the dashboard. 
-  - Help the team understand how often customers are calling customer support after their first inquiry; this will help leadership understand how effectively the team is able to answer customer questions the first time.
-  - Provide insights into the types of customer issues that seem to generate more repeat calls
-  - Explore repeat caller trends in the three different market cities and explore the market and type with most callers.
-  - Design charts so that stakeholders can view trends by week, month, quarter, and year.
-For this project, a repeat caller is someone who calls again about the same issue within 7 days from their initial inquiry. This suggests that their issue was not properly solved with the first phone call. This is a problem for Google and needs to be evaluated, as their goal is to solve inquiries on the initial phone call.
-
-**Results:** By looking at the dashboards and analyzing the data, it can be seen that customers are calling again after their first inquiry around 30% of the time. In adddition, initial inquiries come in most often on Mondays, with Tuesday-Friday all showing similar amount of initial inquiries. Further statistical analysis would need to be done to discover which day recieves the most calls.
-
-
 ### Analyzing TikTok Video Statistics
 
 **Code:** 
@@ -212,6 +196,26 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Description:** Design dashboards for each platform—Facebook, TikTok, and Google Ads—to showcase key metrics like time, CTR, CVR, impressions, and clicks, along with demographic data such as gender and age. This will enable viewers to easily analyze trends and make data-driven decisions.
 
 **Skills:** Tableau, Excel, data cleaning, data visualization, business metrics
+
+### Google Fiber Repeat Calls Analysis
+
+**Tableau Dashboard:** [(Google Fiber Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GooglefiberRepeatCallsAnalysis/Story1)
+
+**Goal:** Analyze the Google Fiber data and create a dashboard in order for viewer to easily find trends in inquiries.
+
+**Description:** I was given the following requirements when creating the dashboard. 
+  - Help the team understand how often customers are calling customer support after their first inquiry; this will help leadership understand how effectively the team is able to answer customer questions the first time.
+  - Provide insights into the types of customer issues that seem to generate more repeat calls
+  - Explore repeat caller trends in the three different market cities and explore the market and type with most callers.
+  - Design charts so that stakeholders can view trends by week, month, quarter, and year.
+For this project, a repeat caller is someone who calls again about the same issue within 7 days from their initial inquiry. This suggests that their issue was not properly solved with the first phone call. This is a problem for Google and needs to be evaluated, as their goal is to solve inquiries on the initial phone call.
+
+**Results:** Based on the dashboard data and analysis, it's evident that approximately 30% of customers make follow-up calls after their initial inquiry. Initial inquiries are most frequent on Mondays, while Tuesday through Friday show similar levels of inquiries. Market data reveals that Market 1 generates the most inquiries, with Type 2 products receiving the highest number—accounting for over half of the inquiries—followed by Type 5, which makes up around 30%. Type 2 and Type 5 also dominate in other markets, particularly in Market 3, where Type 5 accounts for roughly 75% of the inquiries. Market 1 also tends to receive the highest number of repeat calls, which is expected given its overall higher volume of calls. Time-wise, initial inquiries peak on Mondays. Week 13 stands out with a notable increase in calls, suggesting a potential product release or update that may have caused issues that week. February recorded the lowest number of calls, while March had the highest, which aligns with Week 13 occurring in March. Further analysis is needed to determine whether Week 13 is statistically significant and to explore the reasons behind the spike in calls during that period.
+  - Conclusion
+    - Monday seems to recieve the most initial inquiries, but further statistical analysis is needed to pinpoint the exact day that receives the highest volume.
+    - Market 1 seems to recieve the most repeat calls, but statistical analysis is needed to confirm which market actually receives the most.
+    - 
+
 
 ### EDA of TikTok Claim Classification
 **Dashboard:** [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/tiktok_claim_analysis/tiktok_claim_analysis/EDA_TikTok_Claim_Dashboard.pdf)
