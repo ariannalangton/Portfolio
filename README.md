@@ -44,7 +44,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Overview:** [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison)   
 
-**Platform Folders:** [(Facebook Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/facebook) [(TikTok Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/tiktok)
+**Platform Folders with Notebooks:** [(Facebook Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/facebook) [(TikTok Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/tiktok)
 
 **Dashboards:** 
   - Facebook
