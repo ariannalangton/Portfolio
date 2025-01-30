@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Tableau](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Tableau)
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
       - [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Ad-Campaign-Comparison)
-      - [(Google Fiber Repeat Calls)] 
+      - [(Google Fiber Repeat Calls)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Google-Fiber-Repeat-Calls-Analysis)
       - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#EDA-of-TikTok-Claim-Classification)
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-Statistics)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Women-Elected-Officials)
@@ -73,6 +73,7 @@ In this section I will list data analytics projects briefly describing the techn
   - The ad was most frequently seen during early morning hours, lunch breaks, and late afternoon, aligning with typical routines of the older demographic. However, due to the minor differences in impressions during the top viewing hours, more data is required to determine the most effective time for ad placements.
   - It performed well in terms of conversion and click-through rates, surpassing industry averages. The 30% conversion rate is particularly notable, but the relatively low impression-to-conversion rate (1.4%).
 
+### Google Fiber Repeat Calls Analysis
 
 ### Analyzing TikTok Video Statistics
 
