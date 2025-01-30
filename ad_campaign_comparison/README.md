@@ -8,8 +8,7 @@ create Tableau dashboards to visualize the data and utilize Python for detailed 
 hypothesis tests, and regression analysis. This folder contains Executive Summaries for all four analyses, covering the overview, data preparation, exploratory data analysis (EDA), and 
 results. Additionally, the corresponding notebooks and dashboards will be provided.
 
-## Table of Contents
-- [About]      
+## Table of Contents    
 - [TikTok Statisical Analysis]
   - [Executive Summary]
   - [Jupyter Notebook] 
