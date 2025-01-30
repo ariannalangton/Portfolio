@@ -75,6 +75,20 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Google Fiber Repeat Calls Analysis
 
+**Tableau Dashboard:** [(Google Fiber Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GooglefiberRepeatCallsAnalysis/Story1)
+
+**Goal:** Analyze the Google Fiber data and create a dashboard in order for viewer to easily find trends in inquiries.
+
+**Description:** I was given the following requirements when creating the dashboard. 
+  - Help the team understand how often customers are calling customer support after their first inquiry; this will help leadership understand how effectively the team is able to answer customer questions the first time.
+  - Provide insights into the types of customer issues that seem to generate more repeat calls
+  - Explore repeat caller trends in the three different market cities and explore the market and type with most callers.
+  - Design charts so that stakeholders can view trends by week, month, quarter, and year.
+For this project, a repeat caller is someone who calls again about the same issue within 7 days from their initial inquiry. This suggests that their issue was not properly solved with the first phone call. This is a problem for Google and needs to be evaluated, as their goal is to solve inquiries on the initial phone call.
+
+**Results:** By looking at the dashboards and analyzing the data, it can be seen that customers are calling again after their first inquiry around 30% of the time. In adddition, initial inquiries come in most often on Mondays, with Tuesday-Friday all showing similar amount of initial inquiries. Further statistical analysis would need to be done to discover which day recieves the most calls.
+
+
 ### Analyzing TikTok Video Statistics
 
 **Code:** 
