@@ -24,10 +24,10 @@ This is a repository to showcase skills, share projects and track my progress in
       - [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Ad-Campaign-Comparison)
       - [(Google Fiber Repeat Calls)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Google-Fiber-Repeat-Calls-Analysis)
       - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#EDA-of-TikTok-Claim-Classification)
-      - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-Statistics)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Women-Elected-Officials)
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Grocery-Store-KPI-Dashboard)
       - [(Minnesota Traffic Volume Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Minnesota-Traffic-Volume-Analysis)
+      - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-Statistics)
   - [SQL](https://github.com/ariannalangton/Portfolio/blob/main/README.md#SQL)
   - [Excel and Sheets](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Excel-and-Sheets)
       - [(Clean Data for a Gym Directory)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Cleaning-Web-Scraped-Data-for-a-Directory)
@@ -232,19 +232,6 @@ For this project, a repeat caller is someone who calls again about the same issu
 
 **Results:** By utilizing Tableau's plots and aggregation functions, I created a scatter plot to show the relationship between a videos like count and view count for claims and opinions. In addition, I visualized the total amount of claims v.s opinions, as well as an author status (active, banned, or under review) and the type of video posted by each status.
 
-### League of Legends Statistics
-**Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/league_of__ledgends_dashboard.png)
-
-**Tableau:** [(League of Legends Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/leagueoflegendsstats/Dashboard2)
-
-**Goal:** Use League of Legends Champion statistics v13.1 from Kaggle to create a dashboard on Tableau. Analyzed champions and roles by most played, ban rate, and win rate.
-
-**Description:** The project aimed to analyze more than a hundred champions by examining their win, loss, ban, and pick rates. Additionally, I explored the same characteristics for each of the five possible roles.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Results:** By utilizing Tableau's built-in aggregation functions, I determined that Caitlyn was the most played champion, while Zed was the most banned. Furthermore, Singed had the highest win rate among all champions when played in the Mid role, and Mid being the role with the highest overall win rate. Additionally, I visualized the top 8 most played champions and the roles in which they are most frequently selected.
-
 ### Women Elected Officials
 **Dashboard:** [(U.S Women Elected Officals Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/us_women_officials.png)
 
@@ -285,6 +272,19 @@ For this project, a repeat caller is someone who calls again about the same issu
 **Skills:** data analysis, dashboard visualization, tableau.
 
 **Results:** Using Tableau, I found that August had the highest traffic volume, likely due to end-of-summer activities, while February had the lowest traffic. I also discovered that clear or cloudy days generally see the most traffic, with a decrease during rainy conditions, and the least traffic occurs when it’s foggy or visibility is impaired. Additionally, holidays like New Year’s Day and MLK Jr. Day in January, as well as Labor Day in September, contribute to traffic spikes. Analyzing traffic by hour and day reveals that it peaks during rush hours, as people commute to and from work, and also shows that holidays have minimal overall effect on traffic.
+
+### League of Legends Statistics
+**Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/league_of__ledgends_dashboard.png)
+
+**Tableau:** [(League of Legends Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/leagueoflegendsstats/Dashboard2)
+
+**Goal:** Use League of Legends Champion statistics v13.1 from Kaggle to create a dashboard on Tableau. Analyzed champions and roles by most played, ban rate, and win rate.
+
+**Description:** The project aimed to analyze more than a hundred champions by examining their win, loss, ban, and pick rates. Additionally, I explored the same characteristics for each of the five possible roles.
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Results:** By utilizing Tableau's built-in aggregation functions, I determined that Caitlyn was the most played champion, while Zed was the most banned. Furthermore, Singed had the highest win rate among all champions when played in the Mid role, and Mid being the role with the highest overall win rate. Additionally, I visualized the top 8 most played champions and the roles in which they are most frequently selected.
 
 ## SQL
 
