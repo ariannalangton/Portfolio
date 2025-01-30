@@ -21,6 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Chaotic-Systems-of-Differenital-Equations)
   - [Tableau](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Tableau)
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
+      - [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Ad-Campaign-Comparison)  
       - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#EDA-of-TikTok-Claim-Classification)
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-Statistics)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Women-Elected-Officials)
@@ -171,6 +172,19 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 **Results:** [(Results Report)](https://github.com/ariannalangton/Portfolio/blob/main/chaotic_systems/chaotic%20attractors%20results.pdf)
 
 ## Tableau
+
+### Ad Campaign Comparison
+**Dashboards on Tableau:**
+***TikTok: *** [(TIikTok Demographics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
+[(TikTok KPI Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)
+***Facebook: ***
+[(Facebook Metrics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Dashboard1)
+
+**Goal:** Create dashboards to allow viewers to easily interpret data and extract insights.
+
+**Description:** Design dashboards for each platform—Facebook, TikTok, and Google Ads—to showcase key metrics like time, CTR, CVR, impressions, and clicks, along with demographic data such as gender and age. This will enable viewers to easily analyze trends and make data-driven decisions.
+
+**Skills:** Tableau, Excel, data cleaning, data visualization, business metrics
 
 ### EDA of TikTok Claim Classification
 **Dashboard:** [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/tiktok_claim_analysis/tiktok_claim_analysis/EDA_TikTok_Claim_Dashboard.pdf)
