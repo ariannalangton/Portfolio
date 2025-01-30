@@ -79,7 +79,7 @@ In this section I will list data analytics projects briefly describing the techn
 [(TikTok Claim Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/tiktok_claim_analysis/tiktok_video_stats.ipynb)
 [(Claim Hypthosesis Testing)](https://github.com/ariannalangton/Portfolio/blob/main/tiktok_claim_analysis/tiktok_hypothesis_testing.ipynb)
 
-**Dashboard:** [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/EDA_TikTok_Claim_Dashboard.pdf)
+**Dashboard:** [(EDA of TikTok Claim Classification)](https://public.tableau.com/app/profile/arianna.langton5684/viz/EDAofTiktokClaimClassification/Story1)
 
 **Goal:** Use skills to clean and investigate data following EDA process. Analyze data for TikTok videos and discover trends.
 
