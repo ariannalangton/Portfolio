@@ -46,7 +46,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Platform Folders:** [(Facebook Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/facebook) 
 
-**Dashboards:** [(Facebook Ad Campaign Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Dashboard1#1)
+**Dashboards:** 
+  - Facebook
+    - [(Facebook Ad Campaign Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Story1#1)
+  - TikTok
+    -[(TikTok Demographics Dashboards)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
+    -[(TikTok Metrics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)
 
 **Goal:** Apply data cleaning and formatting techniques to prepare data for creating dashboards that showcase key metrics, including impressions, conversion rate, click-through rate, and demographic information across Facebook, TikTok, and Google Ads platform. Additionally, conduct statistical analysis to validate that observed trends are statistically significant and reliable for future decision-making. Finally, perform a comprehensive review to determine which platform delivered the best performance.
 
@@ -174,11 +179,13 @@ The analysis identified eight companies that meet the criteria for the Hardware 
 ## Tableau
 
 ### Ad Campaign Comparison
+
 **Dashboards on Tableau:**
-  - TikTok: [(TIikTok Demographics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
-[(TikTok KPI Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)
+  - TikTok:
+    - [(TIikTok Demographics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
+    - [(TikTok KPI Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)
   - Facebook:
-[(Facebook Metrics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Dashboard1)
+    - [(Facebook Metrics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Story1)
 
 **Goal:** Create dashboards to allow viewers to easily interpret data and extract insights.
 
