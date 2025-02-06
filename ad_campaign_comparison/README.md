@@ -10,7 +10,6 @@ results. Additionally, the corresponding notebooks and dashboards will be provid
 
 ## Table of Contents    
 - [TikTok Statisical Analysis](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/README.md)
-  - [Executive Summary]
   - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
   - Tableau Dashboards
     - [Demographic Dashboard](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
@@ -20,10 +19,8 @@ results. Additionally, the corresponding notebooks and dashboards will be provid
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Story1)
   - [Executive Summary](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook%20Ads%20Executive%20Summary.pdf)
 - [Google Statistical Analysis]
-  - [Executive Summary]
   - [Jupyter Notebook]
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/GoogleAdCampaignAnalysis/Story1)
 - [Overall Platform Comparison]
-  - [Executive Summary]
   - [Jupyter Notebook]
   - [Tableau Dashboards]
