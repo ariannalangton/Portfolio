@@ -11,7 +11,7 @@ results. Additionally, the corresponding notebooks and dashboards will be provid
 ## Table of Contents    
 - [TikTok Statisical Analysis]
   - [Executive Summary]
-  - [Jupyter Notebook] 
+  - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
   - Tableau Dashboards
     - [Demographic Dashboard](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
     - [Metrics Dashboard](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)   
