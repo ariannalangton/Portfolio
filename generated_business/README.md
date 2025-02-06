@@ -1,0 +1,1 @@
+For this project, I will build tables on python with pretend but realistic business data. I will then created a data base using postgres sql on PGadmin follwing the database schema I created to answer some business questions, as well as create tableau dashboards.
