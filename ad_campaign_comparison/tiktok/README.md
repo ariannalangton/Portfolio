@@ -14,11 +14,11 @@ To achieve this, I applied a series of hypothesis tests and analysis of variance
   
 2. **2-Way Z-Test for Conversion (CVR) and Click Rates (CTR)**: A two-way z-test was used to investigate conversion and click rates by gender. Using an alpha of 0.05 again, it was found that there is no significant difference between CVR or CTR for men and women. Even though women were the majority of impressions and clicks, they both had the same overall CVR and CTR.
   
-3. **One-Way ANOVA for Age Effect**: I conducted a one-way ANOVA to assess whether age influenced conversion rates, as it was revealed gender does not. The test revealed that age had no significant effect on CVR.
+3. **One-Way ANOVA for Age Effect**: I conducted a one-way ANOVA to assess whether age influenced conversion rates. The test revealed that age had no significant effect on CVR.
 
-4. **One-Way ANOVA for Gender and KPIs**: A one-way ANOVA was also performed to see if gender had an effect on conversion rates. The test revealed that gender had no significant effect on CVR, which can be seen in the z-test as well.
+4. **One-Way ANOVA for Gender and CVR**: A one-way ANOVA was also performed to see if gender had an effect on conversion rates. The test revealed that gender had no significant effect on CVR, which can be seen in the z-test as well.
 
-5. **Two-Way ANOVA with Post-Hoc Tukey Test**: To refine the analysis, a two-way ANOVA with a post-hoc Tukey test was applied to assess the effect of both age and gender on conversion rates. Using a 0.05 value for alpha, there was no significant difference between any of the categories. However, upon further analysis in the post-hoc tukey test, it was found that the following pairs had a p value of less than 0.1, which is also a valid alpha choice.
+5. **Two-Way ANOVA with Post-Hoc Tukey Test for Age and Gender**: To refine the analysis, a two-way ANOVA with a post-hoc Tukey test was applied to assess the effect of both age and gender on conversion rates. Using a 0.05 value for alpha, there was no significant difference between any of the categories. However, upon further analysis in the post-hoc tukey test, it was found that the following pairs had a p value of less than 0.1, which is also a valid alpha choice.
   - Age groups 18-25 and 55+
   - Women in the age group 18-25 and men in the age group 55+
 
