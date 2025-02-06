@@ -9,7 +9,7 @@ hypothesis tests, and regression analysis. This folder contains Executive Summar
 results. Additionally, the corresponding notebooks and dashboards will be provided.
 
 ## Table of Contents    
-- [TikTok Statisical Analysis]
+- [TikTok Statisical Analysis](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/README.md)
   - [Executive Summary]
   - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
   - Tableau Dashboards
