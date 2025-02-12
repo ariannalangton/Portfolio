@@ -50,7 +50,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:**
   - TikTok <br>
     - [(Tiktok Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
-  -  Facebook <br>
+  - Facebook <br>
     - [(Facebook Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
   - Google <br>
     - [(Google Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/google/google_analysis.ipynb) 
