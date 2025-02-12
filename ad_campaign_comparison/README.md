@@ -5,9 +5,7 @@
 For this project, I received data from a paid digital media specialist who ran ads across Facebook, Google, and TikTok. I will conduct separate analyses for each 
 platform, as well as an overall comparison to determine which platform was the most successful based on several key metrics. For each individual analysis, I will 
 create Tableau dashboards to visualize the data and utilize Python for detailed analysis, including statistical methods like confidence intervals, 
-hypothesis tests, and regression analysis. This folder contains Executive Summaries for all four analyses, covering the overview, data preparation, exploratory data analysis (EDA), and 
-results. Additionally, the corresponding notebooks and dashboards will be provided.
-
+hypothesis tests, and regression analysis. This folder all dashboards and code created for the project, as well as any executive summaries created. Each platform is orgnaized into its own folder.
 ## Table of Contents    
 - [TikTok Statisical Analysis](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/README.md)
   - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
