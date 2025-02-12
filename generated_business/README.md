@@ -9,7 +9,7 @@ For this project, I built tables on [python](https://github.com/ariannalangton/P
 
 2. What is the average number of orders for a customer?
   
-3. What is the total amounnt of orders per customer?
+3. What is the total amount of orders per customer?
 
 5. What is the total revenue for each customer?
 
