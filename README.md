@@ -319,8 +319,8 @@ For this project, a repeat caller is someone who calls again about the same issu
 
 ### Generating and Analyzing Business Data
 
-**Files:** [(Generated Business Folder)](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/README.md)
-**Dashboard:** [(Tableau Dashboard for Questions)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GeneratedBusinessDashboards/q19?publish=yes)
+**Files:** [(Generated Business Folder)](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/README.md) <br>
+**Dashboard:** [(Tableau Dashboards for Questions)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GeneratedBusinessDashboards/q19?publish=yes)
 
 **Description:** For this project I used Python to generate data tables for a pretend business. I made a customers table, orders table, categories table, and products table. The schema I created for the database is provided in the folder as well as the generated tables. After generating the tables I imported them into PgAdmin using postgreSQL in order to analyze the data and answer key business questions. All questions and queuries ran to answer them, as well as the resultant data, are in the above folder. In addition, I created dashboards using Tableau for some of the questions in order to help the audience easily view and understand the data collected using postgreSQL.
 
