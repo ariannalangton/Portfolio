@@ -40,7 +40,7 @@ hypothesis tests, and regression analysis. This folder all dashboards and code c
   - There is no difference in amount of impressions by hour or by weekday, found using an ANOVA test. However, the day with the most impressions was Tuesday and Friday. The times with the most were in the evening or during lunch (7PM, 8PM, 1PM, 2PM, 11AM), both times when people tend to have free time in their day.
   - There is no difference in the amount of clicks recieved by keyword search, however the ones that did recieve clicks suggests the target demographic should be families / those with kids or couples / those with a partner, as top keywords contained words like 'kids' or 'couples'.
 
-**Overall** 
+### Overall
   - TikTok had the largest reach as well as clicks, but the lowest conversion rate (1.13%) and second lowest click through rate (3.45%). Facebook had the seconed highest reach and clicks, with the best conversion rate by a land slide (30.96%), and the best click through rate (4.6%). Google performed the worst, with the lowest amount of impressions and clicks, as well as lowest click through rate (1.14%) and second lowest conversion rate (3.1%).
   - TikTok had the lowest cost per click (0.22$) with the highest total cost (120$), facebook had the second highest cost per click (0.42$) and the second highest total cost (100.4$), lastly Google having the highest CPC (0.53$) but lowest total cost (56.19$). 
   - TikTok recieved the most views, but it had the lowest conversion rate and second lowest click through rate. Therefore, Facebook out performned TikTok and can be selected as the best performing platform for these metrics.
