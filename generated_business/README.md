@@ -1,1 +1,3 @@
-For this project, I will build tables on python with pretend but realistic business data. I will then created a data base using postgresql on PGadmin follwing the database schema I created to answer some business questions, as well as create tableau dashboards.
+## Overview
+
+For this project, I built tables on [python]() for a pretend but realistic business. I then created a database using postgresql on PGadmin 4 following the [database schema]() I created to answer some business questions, as well as create tableau dashboards.
