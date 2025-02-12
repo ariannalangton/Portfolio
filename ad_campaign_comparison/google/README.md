@@ -15,10 +15,10 @@ To achieve this, I applied a series of hypothesis tests and analysis of variance
 1. **Hypothesis Test for Gender Differences**: I performed a hypothesis test using a two-way z-test to determine whether women had more impressions men. Using the resultant p-value and an alpha of 0.05, it was proven women have a statisitically different amount of impressions.
 
 2. **One-Way ANOVA for Age Effect with Post-Hoc Tukey Test**: I conducted a one-way ANOVA to assess whether age influenced impressions, as it was revealed gender does. The test revealed that age has a moderate effect on the amount of impressions, with a p-value less thabn 0.1 but bigger than 0.05. This suggests further investigation should be done for age and its effect on impressions, but it could still be considered as relevant.
-  - The post-hoc test found age groups 18-25 and 65+ to be the most different, with 25-25 having the most impressions and 65+ having the least.
+    - The post-hoc test found age groups 18-25 and 65+ to be the most different, with 25-25 having the most impressions and 65+ having the least.
 
 3. **Two-Way ANOVA**: To refine the analysis, a two-way ANOVA with a post-hoc Tukey test was applied to assess the effect of both age and gender on conversion rates. Using a 0.05 value for alpha, there was no significant difference between any of the categories as the p-value for all categories was NAN. This does not actually mean there is no difference, but that there needs to be more data gathered to get a meaningful result. 
-  - Since this did not turn out any results, it is hard to tell what gender and age group will get the most amount of impressions. However, it was proven that women got significantly more impressions than men, and that age group 25-35 got the most impressions, so it isn't far-fetched to say that women in the 25-35 age group will have the most impressions.
+    - Since this did not turn out any results, it is hard to tell what gender and age group will get the most amount of impressions. However, it was proven that women got significantly more impressions than men, and that age group 25-35 got the most impressions, so it isn't far-fetched to say that women in the 25-35 age group will have the most impressions.
 
 ## Time Analysis
 
