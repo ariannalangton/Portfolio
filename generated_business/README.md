@@ -1,36 +1,46 @@
 ## Overview
 
-For this project, I built tables on [python](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/generated_business_data.ipynb) for a pretend but realistic business. I then created a database using postgresql on PGadmin 4 following the [database schema](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/business_schema.png). The tables are included in this folder. I will answer the following questions by anazling the data in SQL, and then build the corresponding dashboards on Tableau.
+For this project, I built tables on [python](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/generated_business_data.ipynb) for a pretend but realistic business in the U.S for 2024. I then created a database using postgresql on PGadmin 4 following the [database schema](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/business_schema.png). The tables are included in this folder. I will answer the following questions by anazling the data using postgresql in PgAdmin, and then build the corresponding dashboards on Tableau. I will upload the SQL query ran and results generated for each question.
 
 ### Questions
 
-How many customers have placed more than one order?
 
-What is the average number of orders per customer?
+1. How many customers have placed more than one order?
 
-What is the total revenue for each customer?
+2. What is the average number of orders for a customer?
+  
+3. What is the total amounnt of orders per customer?
 
-What is the total revenue for each category?
+5. What is the total revenue for each customer?
 
-How many customers have placed an order in the past month?
+6. What is the total revenue for each category?
 
-What are the top 5 most ordered products?
+6 How many customers have placed an order in the past month (12/24)?
 
-What is the average order value for each customer?
+7. What are the top 5 most ordered products?
 
-What is the revenue per category in the past quarter?
+8. What is the average order value for each customer?
 
-Which product category has the highest profit margin (if you have cost data)?
+9. What is the revenue per category for the past quarter? (10/24-12/24)
 
-How often do customers repeat purchases for a specific product?
+10. What product does each customer reorder the most?
 
-What are the seasonal trends in customer orders (e.g., orders by month)?
+11. What product gets reordered the most overall?
 
-What is the average quantity of products purchased per order?
+12. How often do products get reordered? In other words, what is the average amount of months between first and second order for each product?
 
-What percentage of customers have bought products from multiple categories?
+13. What are the seasonal trends in customer orders (e.g., orders by month, revenue by month)?
 
-What are the average order sizes for each product category?
+14. What are the trends in categories by month? (Sales, quantity sold?)
 
-How long, on average, do customers wait between their first and second orders?
+15. What is the average total quantity of an order?
+
+16. what is the average quantity per product for an order?
+
+17. What percentage of customers have bought products from multiple categories?
+
+18. How long, on average, do customers wait between their first and second orders?
+
+19. How much revenue and how many orders were received for each quarter? (2024)
+
 
