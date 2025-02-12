@@ -56,7 +56,7 @@ In this section I will list data analytics projects briefly describing the techn
     - [(Google Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/google/google_analysis.ipynb) 
 
 **Dashboards:** 
-    - TikTok <br>
+  - TikTok <br>
     - [(TikTok Demographics Dashboards)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
     - [(TikTok Metrics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)
   - Facebook <br>
