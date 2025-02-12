@@ -16,7 +16,7 @@ hypothesis tests, and regression analysis. This folder all dashboards and code c
   - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Story1)
   - [Executive Summary](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook%20Ads%20Executive%20Summary.pdf)
-- [Google Statistical Analysis]
+- [Google Statistical Analysis](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/google)
   - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/google/google_analysis.ipynb)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/GoogleAdCampaignAnalysis/Story1)
 - [Overall Platform Comparison]
