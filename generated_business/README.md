@@ -1,6 +1,6 @@
 ## Overview
 
-For this project, I built tables on [python](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/generated_business_data.ipynb) for a pretend but realistic business in the U.S for 2024. I then created a database using postgresql on PGadmin 4 following the [database schema](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/business_schema.png) I created. The tables are included in this folder. I will answer the following questions by anazling the data using postgresql in PgAdmin, and then build the corresponding dashboards on Tableau. I will upload the SQL query ran and results generated for each question.
+For this project, I built tables on [python](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/generated_business_data.ipynb) for a pretend but realistic business in the U.S for 2024. I then created a database using postgresql on PGadmin 4 following the [database schema](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/business_schema.png) I created. The data tables are included in this folder. I will answer the following questions by anazling the data using postgresql in PgAdmin, and then build the corresponding dashboards on Tableau. I will upload the SQL query ran and results generated for each question.
 
 ### Questions
 
