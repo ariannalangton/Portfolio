@@ -48,22 +48,22 @@ In this section I will list data analytics projects briefly describing the techn
 **Platform Folders:** [(Facebook Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/facebook) [(TikTok Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/tiktok) [(Google Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/google)
 
 **Code:**
-  - TikTok
+  - TikTok <br>
     - [(Tiktok Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
-  -  Facebook
+  -  Facebook <br>
     - [(Facebook Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
-  - Google
+  - Google <br>
     - [(Google Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/google/google_analysis.ipynb) 
 
 **Dashboards:** 
-    - TikTok
+    - TikTok <br>
     - [(TikTok Demographics Dashboards)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
     - [(TikTok Metrics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)
-  - Facebook
+  - Facebook <br>
     - [(Facebook Ad Campaign Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Story1#1)
-  - Google
+  - Google <br>
     - [(Google Ad Campaign Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GoogleAdCampaignAnalysis/Story1#1)
-  - Overall Comparison
+  - Overall Comparison <br>
     - [(Comparison Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/AdPlatformComparison/Dashboard1)  
 
 **Goal:** Apply data cleaning and formatting techniques to prepare data for creating dashboards that showcase key metrics, including impressions, conversion rate, click-through rate, and demographic information across Facebook, TikTok, and Google Ads platform. Additionally, conduct statistical analysis to validate that observed trends are statistically significant and reliable for future decision-making. Finally, perform a comprehensive review to determine which platform delivered the best performance.
