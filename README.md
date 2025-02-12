@@ -29,6 +29,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [(Minnesota Traffic Volume Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Minnesota-Traffic-Volume-Analysis)
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-Statistics)
   - [SQL](https://github.com/ariannalangton/Portfolio/blob/main/README.md#SQL)
+    - [(Generated Business Database)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Generating-and-Analyzing-Business-Data)
   - [Excel and Sheets](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Excel-and-Sheets)
       - [(Clean Data for a Gym Directory)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Cleaning-Web-Scraped-Data-for-a-Directory)
 
@@ -315,6 +316,13 @@ For this project, a repeat caller is someone who calls again about the same issu
 **Results:** By utilizing Tableau's built-in aggregation functions, I determined that Caitlyn was the most played champion, while Zed was the most banned. Furthermore, Singed had the highest win rate among all champions when played in the Mid role, and Mid being the role with the highest overall win rate. Additionally, I visualized the top 8 most played champions and the roles in which they are most frequently selected.
 
 ## SQL
+
+### Generating and Analyzing Business Data
+
+**Files:** [(Generated Business Folder)](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/README.md)
+**Dashboard:** [(Tableau Dashboard for Questions)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GeneratedBusinessDashboards/q19?publish=yes)
+
+**Description:** For this project I used Python to generate data tables for a pretend business. I made a customers table, orders table, categories table, and products table. The schema I created for the database is provided in the folder as well as the generated tables. After generating the tables I imported them into PgAdmin using postgreSQL in order to analyze the data and answer key business questions. All questions and queuries ran to answer them, as well as the resultant data, are in the above folder. In addition, I created dashboards using Tableau for some of the questions in order to help the audience easily view and understand the data collected using postgreSQL.
 
 ## Excel and Sheets
 
