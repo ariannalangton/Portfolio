@@ -22,5 +22,5 @@ results. Additionally, the corresponding notebooks and dashboards will be provid
   - [Jupyter Notebook]
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/GoogleAdCampaignAnalysis/Story1)
 - [Overall Platform Comparison]
-  - [Jupyter Notebook]
-  - [Tableau Dashboards]
+  - [Executive Summary]
+  - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/AdPlatformComparison/Dashboard1#1)
