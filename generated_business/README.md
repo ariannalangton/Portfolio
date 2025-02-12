@@ -15,7 +15,7 @@ For this project, I built tables on [python](https://github.com/ariannalangton/P
 
 6. What is the total revenue for each category?
 
-6. How many customers have placed an order in the past month (12/24)?
+6. How many orders were placed and how many customers placed an order in the past month (12/24)?
 
 7. What are the top 5 most ordered products?
 
