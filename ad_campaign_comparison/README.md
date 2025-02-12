@@ -19,7 +19,7 @@ hypothesis tests, and regression analysis. This folder all dashboards and code c
 - [Google Statistical Analysis](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/google)
   - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/google/google_analysis.ipynb)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/GoogleAdCampaignAnalysis/Story1)
-- [Overall Platform Comparison](https://github.com/ariannalangton/Portfolio/blob/mainad_campgaign_comparison/README.md#Overall)
+- [Overall Platform Comparison](https://github.com/ariannalangton/Portfolio/blob/main/ad_campgaign_comparison/README.md#Overall)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/AdPlatformComparison/Dashboard1#1)
 
 **Results:** An overview of the results for each platform is below.
