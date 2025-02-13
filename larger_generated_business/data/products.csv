@@ -1,0 +1,101 @@
+product_id,product_name,category_id,store_id
+1001,Fun Robot,4,1004
+1002,Modern Desk,2,1006
+1003,Revitalizing Serum,8,1001
+1004,Portable Cleats,6,1002
+1005,Hydrating Serum,8,1003
+1006,Adventurous Self-help,5,1001
+1007,Gentle Cream,8,1006
+1008,Lightweight Racket,6,1002
+1009,Portable Oven,7,1007
+1010,Fragrant Serum,8,1001
+1011,Flexible Cleats,6,1002
+1012,Modern Blender,7,1009
+1013,Romantic Comic,5,1009
+1014,Modern Bookshelf,2,1007
+1015,Modern Toaster,7,1002
+1016,Gentle Face Mask,8,1006
+1017,Convenient Fridge,7,1008
+1018,Romantic Magazine,5,1003
+1019,Smooth Mascara,8,1005
+1020,Organic Face Mask,8,1004
+1021,Thrilling Magazine,5,1008
+1022,Toy Truck,4,1009
+1023,Luxurious Face Mask,8,1002
+1024,Ergonomic Gloves,6,1002
+1025,Premium Phone,1,1009
+1026,Stylish Shirt,3,1009
+1027,Leather Table,2,1003
+1028,Non-fiction Magazine,5,1006
+1029,Portable Bicycle,6,1008
+1030,Colorful Action Figure,4,1002
+1031,Creative Puzzle,4,1007
+1032,Revitalizing Face Mask,8,1009
+1033,Toy Building Blocks,4,1001
+1034,Wooden Bed,2,1008
+1035,Efficient Dishwasher,7,1007
+1036,Durable Phone,1,1003
+1037,Creative Truck,4,1007
+1038,Educational Doll,4,1004
+1039,Adventure Bicycle,4,1008
+1040,Innovative Speaker,1,1006
+1041,Innovative Projector,1,1001
+1042,Luxury Chair,2,1003
+1043,Comfortable Gloves,6,1008
+1044,Automatic Washing Machine,7,1007
+1045,Premium Camera,1,1008
+1046,Modern Vacuum,7,1006
+1047,Modern Fridge,7,1007
+1048,Fashionable Jeans,3,1003
+1049,High-performance Helmet,6,1008
+1050,Lightweight Ball,6,1004
+1051,Historical Guide,5,1009
+1052,Wooden Bed,2,1001
+1053,Creative Building Blocks,4,1005
+1054,Durable Water Bottle,6,1003
+1055,Smooth Shampoo,8,1005
+1056,Modern Chair,2,1005
+1057,Cozy Sofa,2,1005
+1058,Thrilling Self-help,5,1007
+1059,Inspirational Magazine,5,1004
+1060,Luxurious Serum,8,1009
+1061,Smart Vacuum,7,1008
+1062,Durable Earbuds,1,1001
+1063,Revitalizing Shampoo,8,1004
+1064,Adventurous Guide,5,1006
+1065,Modern Dishwasher,7,1003
+1066,Lightweight Bicycle,6,1007
+1067,Smart Earbuds,1,1009
+1068,Stylish Chair,2,1002
+1069,Creative Ball,4,1007
+1070,Modern Vacuum,7,1003
+1071,Smart Projector,1,1001
+1072,Smart Earbuds,1,1009
+1073,Wireless Phone,1,1004
+1074,Energy-saving Fridge,7,1002
+1075,Energy-saving Fridge,7,1001
+1076,Trendy Jacket,3,1000
+1077,Adventurous Cookbook,5,1001
+1078,Compact Vacuum,7,1007
+1079,Fun Building Blocks,4,1005
+1080,Wooden Chair,2,1005
+1081,Innovative Earbuds,1,1003
+1082,Portable Water Bottle,6,1000
+1083,High-tech Headphones,1,1006
+1084,Flexible Racket,6,1000
+1085,Innovative Smartwatch,1,1000
+1086,Convenient Fridge,7,1002
+1087,Smart Oven,7,1008
+1088,Inspirational Guide,5,1004
+1089,Portable Vacuum,7,1000
+1090,Creative Action Figure,4,1005
+1091,Cozy Table,2,1004
+1092,Energy-saving Vacuum,7,1006
+1093,Portable Laptop,1,1007
+1094,Smart Speaker,1,1006
+1095,Historical Guide,5,1009
+1096,Comfortable T-shirt,3,1005
+1097,Convenient Toaster,7,1001
+1098,Convenient Fridge,7,1006
+1099,Non-fiction Comic,5,1008
+1100,Adventurous Guide,5,1004
