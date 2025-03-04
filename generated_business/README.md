@@ -12,81 +12,84 @@ For this project, I created data tables using [python](https://github.com/ariann
 
 
 - What is the average number of orders for a customer?
- - Insights: Helps measure repeat purchase behavior and customer lifetime value.
+   - Insights: Helps measure repeat purchase behavior and customer lifetime value.
 
 
 - How long, on average, do customers wait between their first and second orders?
- - Insights: Provides insight into customer purchase cycles and engagement levels.
+   - Insights: Provides insight into customer purchase cycles and engagement levels.
 
 
 - What product does each customer reorder the most? 
- - Insights: Helps understand individual customer preferences and potential upsell opportunities.
+   - Insights: Helps understand individual customer preferences and potential upsell opportunities.
 
 
 - How often do products get reordered? In other words, what is the average amount of months between first and second order for each product?
- - Insights: Helps predict reorder frequency and optimize inventory management.
+   - Insights: Helps predict reorder frequency and optimize inventory management.
 
 
 
-## Sales & Revenue Analysis
-What is the total amount of orders per customer?
- Insights: Measures customer purchasing behavior to identify high-value customers.
+#### Sales & Revenue Analysis
+
+- What is the total amount of orders per customer?
+    - Insights: Measures customer purchasing behavior to identify high-value customers.
 
 
-What is the total revenue for each customer?
- Insights: Helps segment customers by spending levels for targeted marketing.
+- What is the total revenue for each customer?
+    - Insights: Helps segment customers by spending levels for targeted marketing.
 
 
-What is the total revenue for each category?
- Insights: Identifies which product categories generate the most revenue.
+- What is the total revenue for each category?
+    - Insights: Identifies which product categories generate the most revenue.
 
 
-What is the average order value for each customer?
- Insights: Assesses customer spending habits and informs pricing strategies.
+- What is the average order value for each customer?
+    - Insights: Assesses customer spending habits and informs pricing strategies.
 
 
-What is the revenue per category for the past quarter? (10/24-12/24) 
- Insights: Measures category performance over a specific period for trend analysis.
+- What is the revenue per category for the past quarter? (10/24-12/24)
+    - Insights: Measures category performance over a specific period for trend analysis.
 
 
-How much revenue and how many orders were received for each quarter? (2024) 
- Insights: Provides a high-level view of business performance over time.
-
-
-
-3. Order Trends & Patterns
-How many orders were placed and how many customers placed an order in the past month (12/24)?
- Insights: Tracks short-term demand and customer engagement levels.
-
-
-What are the seasonal trends in customer orders (e.g., orders by month, revenue by month)? 
- Insights: Helps forecast demand and optimize marketing strategies for peak seasons.
-
-
-What are the trends in categories by month? (Sales, quantity sold?) 
- Insights: Identifies category-specific growth patterns for strategic decision-making.
+- How much revenue and how many orders were received for each quarter? (2024)
+    - Insights: Provides a high-level view of business performance over time.
 
 
 
-4. Product Demand & Performance
-What are the top 5 most ordered products? 
- Insights: Identifies best-selling products for inventory and marketing prioritization.
+#### Order Trends & Patterns
+
+- How many orders were placed and how many customers placed an order in the past month (12/24)?
+    - Insights: Tracks short-term demand and customer engagement levels.
 
 
-What product gets reordered the most overall?
- Insights: Highlights high-retention products and potential subscription opportunities.
+- What are the seasonal trends in customer orders (e.g., orders by month, revenue by month)?
+    - Insights: Helps forecast demand and optimize marketing strategies for peak seasons.
 
 
-What percentage of customers have bought products from multiple categories? 
- Insights: Evaluates cross-category purchasing behavior for bundling strategies.
+- What are the trends in categories by month? (Sales, quantity sold?)
+    - Insights: Identifies category-specific growth patterns for strategic decision-making.
+
+
+#### Product Demand & Performance
+
+- What are the top 5 most ordered products?
+    - Insights: Identifies best-selling products for inventory and marketing prioritization.
+
+
+- What product gets reordered the most overall?
+    - Insights: Highlights high-retention products and potential subscription opportunities.
+
+
+- What percentage of customers have bought products from multiple categories?
+    - Insights: Evaluates cross-category purchasing behavior for bundling strategies.
 
 
 
-5. Order Composition & Volume
-What is the average total quantity of an order? 
- Insights: Helps assess order sizes and optimize packaging/logistics.
+#### Order Composition & Volume
+
+- What is the average total quantity of an order?
+    - Insights: Helps assess order sizes and optimize packaging/logistics.
 
 
-What is the average quantity per product for an order?
- Insights: Provides insights into purchasing habits and potential bulk pricing strategies.
+- What is the average quantity per product for an order?
+    - Insights: Provides insights into purchasing habits and potential bulk pricing strategies.
 
