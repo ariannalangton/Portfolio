@@ -1,46 +1,91 @@
 ## Overview
 
-For this project, I built tables using [python](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/generated_business_data.ipynb) for a pretend but realistic business in the U.S for 2024. I then created a database using postgresql on PGadmin 4 following the [database schema](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/business_schema.png) I created. The data tables are included in this folder. I answered the following questions to provide business insights by anazling the data using postgresql in PgAdmin, and then built the corresponding dashboards on [Tableau](https://public.tableau.com/app/profile/arianna.langton5684/viz/GeneratedBusinessDashboards/q19?publish=yes). I uploaded the SQL query ran and results generated for each question in this folder.
+For this project, I created data tables using [python](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/generated_business_data.ipynb) for a pretend but realistic business in the U.S for 2024. I then built a database by importing the tables into PGadmin 4 following the [database schema](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/business_schema.png) I created. The data tables used are included in the data folder. I answered the following business questions by using postgreSQL to analyze the data in order to provide key business insights. In addition, I displayed the resultant data for each query ran on [Tableau](https://public.tableau.com/app/profile/arianna.langton5684/viz/GeneratedBusinessDashboards/q19?publish=yes) for easy data visualization and understanding. Also, the SQL queries ran and resultant data generated for each question is uploaded in the corresponding question folder.
 
 ### Questions
 
 
-1. How many customers have placed more than one order?
+1. Customer Behavior & Retention
+How many customers have placed more than one order? 
+ Insights: Identifies customer retention and loyalty.
 
-2. What is the average number of orders for a customer?
-  
-3. What is the total amount of orders per customer?
 
-5. What is the total revenue for each customer?
+What is the average number of orders for a customer? 
+ Insights: Helps measure repeat purchase behavior and customer lifetime value.
 
-6. What is the total revenue for each category?
 
-6. How many orders were placed and how many customers placed an order in the past month (12/24)?
+How long, on average, do customers wait between their first and second orders? 
+ Insights: Provides insight into customer purchase cycles and engagement levels.
 
-7. What are the top 5 most ordered products?
 
-8. What is the average order value for each customer?
+What product does each customer reorder the most? 
+ Insights: Helps understand individual customer preferences and potential upsell opportunities.
 
-9. What is the revenue per category for the past quarter? (10/24-12/24)
 
-10. What product does each customer reorder the most?
+How often do products get reordered? In other words, what is the average amount of months between first and second order for each product?
+ Insights: Helps predict reorder frequency and optimize inventory management.
 
-11. What product gets reordered the most overall?
 
-12. How often do products get reordered? In other words, what is the average amount of months between first and second order for each product?
 
-13. What are the seasonal trends in customer orders (e.g., orders by month, revenue by month)?
+2. Sales & Revenue Analysis
+What is the total amount of orders per customer?
+ Insights: Measures customer purchasing behavior to identify high-value customers.
 
-14. What are the trends in categories by month? (Sales, quantity sold?)
 
-15. What is the average total quantity of an order?
+What is the total revenue for each customer?
+ Insights: Helps segment customers by spending levels for targeted marketing.
 
-16. what is the average quantity per product for an order?
 
-17. What percentage of customers have bought products from multiple categories?
+What is the total revenue for each category?
+ Insights: Identifies which product categories generate the most revenue.
 
-18. How long, on average, do customers wait between their first and second orders?
 
-19. How much revenue and how many orders were received for each quarter? (2024)
+What is the average order value for each customer?
+ Insights: Assesses customer spending habits and informs pricing strategies.
 
+
+What is the revenue per category for the past quarter? (10/24-12/24) 
+ Insights: Measures category performance over a specific period for trend analysis.
+
+
+How much revenue and how many orders were received for each quarter? (2024) 
+ Insights: Provides a high-level view of business performance over time.
+
+
+
+3. Order Trends & Patterns
+How many orders were placed and how many customers placed an order in the past month (12/24)?
+ Insights: Tracks short-term demand and customer engagement levels.
+
+
+What are the seasonal trends in customer orders (e.g., orders by month, revenue by month)? 
+ Insights: Helps forecast demand and optimize marketing strategies for peak seasons.
+
+
+What are the trends in categories by month? (Sales, quantity sold?) 
+ Insights: Identifies category-specific growth patterns for strategic decision-making.
+
+
+
+4. Product Demand & Performance
+What are the top 5 most ordered products? 
+ Insights: Identifies best-selling products for inventory and marketing prioritization.
+
+
+What product gets reordered the most overall?
+ Insights: Highlights high-retention products and potential subscription opportunities.
+
+
+What percentage of customers have bought products from multiple categories? 
+ Insights: Evaluates cross-category purchasing behavior for bundling strategies.
+
+
+
+5. Order Composition & Volume
+What is the average total quantity of an order? 
+ Insights: Helps assess order sizes and optimize packaging/logistics.
+
+
+What is the average quantity per product for an order?
+ Insights: Provides insights into purchasing habits and potential bulk pricing strategies.
 
