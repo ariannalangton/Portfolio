@@ -5,7 +5,8 @@ For this project, I created data tables using [python](https://github.com/ariann
 ### Questions
 
 
-## Customer Behavior & Retention
+#### Customer Behavior & Retention
+
 - How many customers have placed more than one order? 
  - Insights: Identifies customer retention and loyalty.
 
