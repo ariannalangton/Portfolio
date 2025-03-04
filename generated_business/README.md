@@ -5,29 +5,29 @@ For this project, I created data tables using [python](https://github.com/ariann
 ### Questions
 
 
-1. Customer Behavior & Retention
-How many customers have placed more than one order? 
- Insights: Identifies customer retention and loyalty.
+## Customer Behavior & Retention
+- How many customers have placed more than one order? 
+ - Insights: Identifies customer retention and loyalty.
 
 
-What is the average number of orders for a customer? 
- Insights: Helps measure repeat purchase behavior and customer lifetime value.
+- What is the average number of orders for a customer?
+ - Insights: Helps measure repeat purchase behavior and customer lifetime value.
 
 
-How long, on average, do customers wait between their first and second orders? 
- Insights: Provides insight into customer purchase cycles and engagement levels.
+- How long, on average, do customers wait between their first and second orders?
+ - Insights: Provides insight into customer purchase cycles and engagement levels.
 
 
-What product does each customer reorder the most? 
- Insights: Helps understand individual customer preferences and potential upsell opportunities.
+- What product does each customer reorder the most? 
+ - Insights: Helps understand individual customer preferences and potential upsell opportunities.
 
 
-How often do products get reordered? In other words, what is the average amount of months between first and second order for each product?
- Insights: Helps predict reorder frequency and optimize inventory management.
+- How often do products get reordered? In other words, what is the average amount of months between first and second order for each product?
+ - Insights: Helps predict reorder frequency and optimize inventory management.
 
 
 
-2. Sales & Revenue Analysis
+## Sales & Revenue Analysis
 What is the total amount of orders per customer?
  Insights: Measures customer purchasing behavior to identify high-value customers.
 
